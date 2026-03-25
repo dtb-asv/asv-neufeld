@@ -58,10 +58,19 @@ print("✅ ICS Datei erstellt mit korrekten Zeiten für MEZ/CEST!")
 # -----------------------------
 # Git Auto Upload
 # -----------------------------
+import subprocess
+
 try:
-    subprocess.run(["git", "add", "."], check=True)
-    subprocess.run(["git", "commit", "-m", "Update Kalender"], check=True)
-    subprocess.run(["git", "push"], check=True)
-    print("🚀 GitHub wurde automatisch aktualisiert!")
+    # Prüfen ob Änderungen vorhanden sind
+    result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+
+    if result.stdout.strip() == "":
+        print("ℹ️ Keine Änderungen – nichts zu committen")
+    else:
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "Update Kalender"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("🚀 GitHub wurde aktualisiert!")
+
 except subprocess.CalledProcessError as e:
     print("❌ Git Fehler:", e)
