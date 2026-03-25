@@ -4,19 +4,21 @@ import hashlib
 import subprocess
 import pytz
 
-# Datei + Reiter
+# -----------------------------
+# Einstellungen
+# -----------------------------
 datei = "Heimspiele_ASVNEUFELD_ICS.xlsx"
 sheet = "ICS"
-
-# Output direkt im Repo-Ordner
 ics_file = "ASV_Neufeld_Heimspiele.ics"
-
-# Excel laden
-df = pd.read_excel(datei, sheet_name=sheet)
-cal = Calendar()
 
 # Zeitzone Österreich
 tz = pytz.timezone("Europe/Vienna")
+
+# -----------------------------
+# Excel einlesen
+# -----------------------------
+df = pd.read_excel(datei, sheet_name=sheet)
+cal = Calendar()
 
 for index, row in df.iterrows():
     try:
@@ -24,9 +26,11 @@ for index, row in df.iterrows():
         ort = str(row["Ort"])
         beschreibung = str(row["Beschreibung"])
 
+        # Zeiten korrekt mit Zeitzone
         start = tz.localize(pd.to_datetime(f"{row['DATUM']} {row['Startzeit']}"))
         end = tz.localize(pd.to_datetime(f"{row['DATUM']} {row['Endzeit']}"))
 
+        # UID auch bei Zeitänderung neu
         uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}".encode()).hexdigest()
 
         e = Event()
@@ -46,17 +50,15 @@ for index, row in df.iterrows():
 with open(ics_file, "w", encoding="utf-8") as f:
     f.writelines(cal)
 
-print("✅ ICS erstellt!")
+print("✅ ICS Datei erstellt mit korrekten Zeiten!")
 
 # -----------------------------
-# 🔄 Git Auto Upload
+# Git Auto Upload
 # -----------------------------
 try:
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", "Update Kalender"], check=True)
     subprocess.run(["git", "push"], check=True)
-
     print("🚀 GitHub wurde automatisch aktualisiert!")
-
-except Exception as e:
+except subprocess.CalledProcessError as e:
     print("❌ Git Fehler:", e)
