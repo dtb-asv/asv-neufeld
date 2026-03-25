@@ -26,12 +26,15 @@ for index, row in df.iterrows():
         ort = str(row["Ort"])
         beschreibung = str(row["Beschreibung"])
 
-        # Zeiten korrekt mit Zeitzone
-        start = tz.localize(pd.to_datetime(f"{row['DATUM']} {row['Startzeit']}"))
-        end = tz.localize(pd.to_datetime(f"{row['DATUM']} {row['Endzeit']}"))
+        # Zeiten korrekt mit Zeitzone (MEZ/CEST automatisch)
+        start_naiv = pd.to_datetime(f"{row['DATUM']} {row['Startzeit']}")
+        end_naiv = pd.to_datetime(f"{row['DATUM']} {row['Endzeit']}")
 
-        # UID auch bei Zeitänderung neu
-        uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}".encode()).hexdigest()
+        start = tz.localize(start_naiv, is_dst=None)
+        end = tz.localize(end_naiv, is_dst=None)
+
+        # UID neu berechnen bei Zeitänderung
+        uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}_{beschreibung}".encode()).hexdigest()
 
         e = Event()
         e.name = titel
@@ -50,7 +53,7 @@ for index, row in df.iterrows():
 with open(ics_file, "w", encoding="utf-8") as f:
     f.writelines(cal)
 
-print("✅ ICS Datei erstellt mit korrekten Zeiten!")
+print("✅ ICS Datei erstellt mit korrekten Zeiten für MEZ/CEST!")
 
 # -----------------------------
 # Git Auto Upload
