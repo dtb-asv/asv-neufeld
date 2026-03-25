@@ -27,7 +27,7 @@ for index, row in df.iterrows():
         start = tz.localize(pd.to_datetime(f"{row['DATUM']} {row['Startzeit']}"))
         end = tz.localize(pd.to_datetime(f"{row['DATUM']} {row['Endzeit']}"))
 
-        uid = hashlib.md5(f"{titel}_{start}_{ort}".encode()).hexdigest()
+        uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}".encode()).hexdigest()
 
         e = Event()
         e.name = titel
