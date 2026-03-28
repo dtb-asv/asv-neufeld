@@ -55,6 +55,10 @@ def create_event(row):
     end = tz.localize(end_naiv, is_dst=None)
 
     ort = str(row.get("ORT", ""))
+    
+    beschreibung = str(row.get("Beschreibung", "") or "")
+    if beschreibung.lower() == "nan":
+       beschreibung = ""
     beschreibung = str(row.get("BESCHREIBUNG", ""))
     
     beschreibung_full = f"""
