@@ -46,6 +46,12 @@ def create_event(row):
        titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
     elif typ == "auswärts":
        titel = f"{prefix}: {liga} {gegner} vs ASV Neufeld"
+       
+    # Status
+    status = str(row.get("STATUS", "Aktiv")).lower()
+
+    if status == "abgesagt":
+      titel = f"❌ ABGESAGT: {titel}"    
 
     # Zeiten
     start_naiv = pd.to_datetime(f"{row['DATUM']} {row['STARTZEIT']}")
