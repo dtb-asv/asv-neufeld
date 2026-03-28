@@ -36,9 +36,9 @@ def create_event(row):
     gegner = get_gegner(row)
 
     # Emoji
-    if typ == "Heim":
+    if typ == "heim":
         prefix = "🏠 Heim"
-    elif typ == "Auswärts":
+    elif typ == "auswärts":
         prefix = "🚗 Auswärts"
     else:
         prefix = "📅 Spiel"
