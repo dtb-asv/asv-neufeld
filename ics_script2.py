@@ -46,14 +46,14 @@ def create_event(row):
     titel = f"{prefix}: ASV Neufeld vs {gegner}"
 
     # Zeiten (DST sicher)
-    start_naiv = pd.to_datetime(f"{row['DATUM']} {row['Startzeit']}")
-    end_naiv = pd.to_datetime(f"{row['DATUM']} {row['Endzeit']}")
+    start_naiv = pd.to_datetime(f"{row['DATUM']} {row['STARTZEIT']}")
+    end_naiv = pd.to_datetime(f"{row['DATUM']} {row['ENDZEIT']}")
 
     start = tz.localize(start_naiv, is_dst=None)
     end = tz.localize(end_naiv, is_dst=None)
 
     ort = str(row.get("Ort", ""))
-    beschreibung = str(row.get("Beschreibung", ""))
+    beschreibung = str(row.get("BESCHREIBUNG", ""))
 
     beschreibung_full = f"""
 {beschreibung}
