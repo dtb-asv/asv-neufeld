@@ -65,13 +65,13 @@ def create_event(row):
     start = tz.localize(start_naiv, is_dst=None)
     end = tz.localize(end_naiv, is_dst=None)
 
-    ort = str(row.get("Ort", ""))
+    ort = str(row.get("ORT", ""))
     beschreibung = clean(row.get("BESCHREIBUNG"))
     
     if status == "abgesagt":
-      titel = f"❌ ABGESAGT: {titel}"
-      beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
-
+       titel = f"❌ ABGESAGT: {titel}"
+       beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
+    #Beschreibung
     beschreibung_full = f"""   
 {beschreibung}
    
