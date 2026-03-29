@@ -1,20 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n\n
-DTEND:20260822T160000Z
-DTSTART:20260822T070000Z
-SUMMARY:🏠 Heim:GGG ASV Neufeld vs viele Gegner
-UID:ef1cd840fc25bdf36fb7726fe252dff0
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n\n
-DTEND:20260613T150000Z
-DTSTART:20260613T080000Z
-SUMMARY:🏠 Heim:GGG ASV Neufeld vs viele Gegner
-UID:a106c60d00b1b2cce9d1ac4bc41bae6d
-END:VEVENT
 END:VCALENDAR
