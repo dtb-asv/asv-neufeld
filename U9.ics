@@ -4,41 +4,41 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DTEND:20260411T103000Z
+DTSTART:20260411T073000Z
+SUMMARY:🏠 Heim:U9 ASV Neufeld vs viele Gegner
+UID:4a9cf853ecbcb7c39413895ff8d98da8
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
 DTEND:20260509T123000Z
 DTSTART:20260509T093000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
-UID:90af60400085be9bba5ab5fa54f4c8ba
+SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
+UID:4a37ef5dca52178a126576af9b6d1509
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
 DTEND:20260418T103000Z
 DTSTART:20260418T073000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
-UID:34763c1684cdd4eb4bcf9157a884dbc4
+SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
+UID:4057eef9af6439117bbeda26d08ffc1a
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
 DTEND:20260425T153000Z
 DTSTART:20260425T123000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
-UID:961448cc595d91ae4f70d1459e610942
+SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
+UID:9cb4ec1bed4a698cc55aa452ee78c3d0
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
 DTEND:20260621T113000Z
 DTSTART:20260621T083000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
-UID:f0cdf11632b21df501d7369937fd8969
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
-DTEND:20260411T103000Z
-DTSTART:20260411T073000Z
-SUMMARY:🏠 Heim: ASV Neufeld vs viele Gegner
-UID:74df87b87b24c589b0544e5a2671e5ff
+SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
+UID:5e76b339ffcb0a765aa1999e4108b59d
 END:VEVENT
 END:VCALENDAR

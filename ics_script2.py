@@ -43,7 +43,7 @@ def create_event(row):
     else:
         prefix = "📅 Spiel"
 
-    titel = f"{prefix}: ASV Neufeld vs {gegner}"
+    titel = f"{prefix}:{liga} ASV Neufeld vs {gegner}"
     # Status mitnehmen
     status = str(row.get("STATUS", "Aktiv")).lower()
 

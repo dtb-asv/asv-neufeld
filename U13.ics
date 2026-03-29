@@ -3,66 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
-DTEND:20260503T143500Z
-DTSTART:20260503T130000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG Leitha/Stotzing
-UID:ec6d2fb7b1478339f02f1d0d47b3076c
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
-DTEND:20260329T103500Z
-DTSTART:20260329T090000Z
-SUMMARY:❌ ABGESAGT!!!: 🏠 Heim: ASV Neufeld vs SC Kittsee
-UID:5007e2b5f22192d25507944e46f89b5d
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n\n
 DTEND:20260426T103500Z
 DTSTART:20260426T090000Z
-SUMMARY:🏠 Heim: ASV Neufeld vs SPG Breitenbrunn/Purbach/Winden
-UID:7113a48734042b137183c0fdf9fc68ab
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
-DTEND:20260509T103500Z
-DTSTART:20260509T090000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs SC Kittsee
-UID:48ecdc82f44125d0991972899c043801
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
-DTEND:20260607T103500Z
-DTSTART:20260607T090000Z
-SUMMARY:🏠 Heim: ASV Neufeld vs SPG Leitha/Stotzing
-UID:2e81996135f15a779fa346674dc19214
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
-DTEND:20260525T153500Z
-DTSTART:20260525T140000Z
-SUMMARY:🏠 Heim: ASV Neufeld vs SC Eisenstadt/Rust
-UID:62244c7e7615e7673d4d074a680e7d5f
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
-DTEND:20260418T143500Z
-DTSTART:20260418T130000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs SC Eisenstadt/Rust
-UID:bd972e97799d1a8c1a7f9d1112fe8ab3
+SUMMARY:🏠 Heim:U13 ASV Neufeld vs SPG Breitenbrunn/Purbach/Winden
+UID:8e91dad0ccd0b15068d1d253ef17e98b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n\n
 DTEND:20260531T173500Z
 DTSTART:20260531T160000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG Breitenbrunn/Purbach/Windne
-UID:43477eaffbb892ccf837b933188aa75c
+SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SPG Breitenbrunn/Purbach/Windne
+UID:1653e84c8234f191cc5ea8c3762a3109
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
+DTEND:20260607T103500Z
+DTSTART:20260607T090000Z
+SUMMARY:🏠 Heim:U13 ASV Neufeld vs SPG Leitha/Stotzing
+UID:27bea156c2b91d22e27b6fc64a44c068
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
+DTEND:20260525T153500Z
+DTSTART:20260525T140000Z
+SUMMARY:🏠 Heim:U13 ASV Neufeld vs SC Eisenstadt/Rust
+UID:7db5fd47a6adfe0caebcd312ecc6db02
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
+DTEND:20260509T103500Z
+DTSTART:20260509T090000Z
+SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SC Kittsee
+UID:71b79f86de4ef1413cb2df592b8c0348
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
+DTEND:20260503T143500Z
+DTSTART:20260503T130000Z
+SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SPG Leitha/Stotzing
+UID:5f953a40f9d6a68a166a3c6ab6a584ea
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
+DTEND:20260418T143500Z
+DTSTART:20260418T130000Z
+SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SC Eisenstadt/Rust
+UID:2bec59c92a1b7ba104f6a5be9517f5f4
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
+DTEND:20260329T103500Z
+DTSTART:20260329T090000Z
+SUMMARY:❌ ABGESAGT!!!: 🏠 Heim:U13 ASV Neufeld vs SC Kittsee
+UID:71d5bf893f813b636daeb3f69ba1db18
 END:VEVENT
 END:VCALENDAR
