@@ -3,43 +3,19 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DTEND:20260509T091000Z
+DTSTART:20260509T080000Z
+SUMMARY:🏠 Heim: ASV Neufeld vs Steinbrunn
+UID:d04b3bdbd257b1c1fc61ad8331fe3f7d
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
 DTEND:20260522T161000Z
 DTSTART:20260522T150000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs SPG Klimpuh
-UID:e6e4d1e7c04f583ecee098ab5e9d4dd4
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
-DTEND:20260328T101000Z
-DTSTART:20260328T090000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs Steinbrunn
-UID:adb929566cd9b095cfb67d362c3090a3
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
-DTEND:20260529T161000Z
-DTSTART:20260529T150000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs Stotzing
-UID:2959e89d2dbe58d8de899a9184082de5
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
-DTEND:20260517T131000Z
-DTSTART:20260517T120000Z
-SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG Waha St. Margarethen
-UID:90fd3c01c9d68d885ef8e513ccafbafb
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
-DTEND:20260411T121000Z
-DTSTART:20260411T110000Z
-SUMMARY:🏠 Heim: ASV Neufeld vs SPG Waha St. Margarethen
-UID:b90b0a710f8fe0404ae4b789dcbbfd4e
+UID:c85547d65ec17c9ee6dad00301c99185
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
@@ -47,7 +23,7 @@ DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
 DTEND:20260419T131000Z
 DTSTART:20260419T120000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG Klimpuh
-UID:1e0207c5ea5dbfc5fe5dbce71a6dc10d
+UID:6670884390a2ec6d8675db7972ecedca
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
@@ -55,14 +31,38 @@ DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
 DTEND:20260423T161000Z
 DTSTART:20260423T150000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Stotzing
-UID:4c793f11b4ad0ddf6dda8e3fc4e2b644
+UID:22b8fc1a6b08c4dd554b1f3aea7c53d2
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
+DTEND:20260411T121000Z
+DTSTART:20260411T110000Z
+SUMMARY:🏠 Heim: ASV Neufeld vs SPG Waha St. Margarethen
+UID:e4dd09d115a387937d5873862cdf1953
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
-DTEND:20260509T091000Z
-DTSTART:20260509T080000Z
-SUMMARY:🏠 Heim: ASV Neufeld vs Steinbrunn
-UID:2188315ce6f88c0fe382b85a54816fd8
+DTEND:20260328T101000Z
+DTSTART:20260328T090000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs Steinbrunn
+UID:5b942cee9959159f8267b89e7fdc1b54
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
+DTEND:20260529T161000Z
+DTSTART:20260529T150000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs Stotzing
+UID:70d55de4aee9861fa2385d8bcabfe54e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
+DTEND:20260517T131000Z
+DTSTART:20260517T120000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG Waha St. Margarethen
+UID:f00a98daf1416636a2f501fb78b1f72d
 END:VEVENT
 END:VCALENDAR

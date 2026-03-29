@@ -72,7 +72,7 @@ def create_event(row):
 
 """
 
-    uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}".encode()).hexdigest()
+    uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}_{status}".encode()).hexdigest()
 
     e = Event()
     e.name = titel
