@@ -11,6 +11,11 @@ datei = "Terminefussball_2026_Frühjahr.xlsx"
 sheet = "ICS2"
 tz = pytz.timezone("Europe/Vienna")
 
+def clean(val):
+    if pd.isna(val):
+        return ""
+    return str(val)
+
 # -----------------------------
 # Gegner erkennen
 # -----------------------------
@@ -37,14 +42,19 @@ def create_event(row):
 
     # Emoji + Titel
     if typ == "heim":
-        prefix = "🏠 Heim"
+       prefix = "🏠 Heim"
     elif typ == "auswärts":
-        prefix = "🚗 Auswärts"
+       prefix = "🚗 Auswärts"
     else:
-        prefix = "📅 Spiel"
+       prefix = "📅 Spiel"
+    if typ == "heim":
+       titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
+    elif typ == "auswärts":
+       titel = f"{prefix}: {liga} {gegner} vs ASV Neufeld"
+    else:
+       titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
 
-    titel = f"{prefix}:{liga} ASV Neufeld vs {gegner}"
-     # Status mitnehmen
+    # Status mitnehmen
     status = str(row.get("STATUS", "Aktiv")).lower()
 
     if status == "abgesagt":
@@ -61,10 +71,7 @@ def create_event(row):
 
     ort = str(row.get("Ort", ""))
     beschreibung = row.get("BESCHREIBUNG", "")
-    if pd.isna(beschreibung):
-      beschreibung = ""
-    else:
-      beschreibung = str(beschreibung)
+    beschreibung = clean(row.get("BESCHREIBUNG"))
 
     beschreibung_full = f"""
    

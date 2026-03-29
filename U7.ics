@@ -6,39 +6,39 @@ BEGIN:VEVENT
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260419T140000Z
 DTSTART:20260419T110000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:0f806a1c3e64e845e27fbf3d9bee6e7e
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:425554c19c83a6d74f2d4632d8aeec36
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260614T113000Z
 DTSTART:20260614T083000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:e9f36d390a20e230c09990af3c9420e2
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
-DTEND:20260501T010000Z
-DTSTART:20260430T220000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:75a467c2737eceb2898be8801c1823a0
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:920c3277a53510aae9d25212d902a9c1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260411T103000Z
 DTSTART:20260411T073000Z
-SUMMARY:🏠 Heim:U7 ASV Neufeld vs viele Gegner
-UID:b7c31bcfd64b08de94b1845e9d628dbb
+SUMMARY:🏠 Heim: U7 ASV Neufeld vs viele Gegner
+UID:e76fb77e76fbf148f5f106ca947145e0
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DTEND:20260501T010000Z
+DTSTART:20260430T220000Z
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:562bdd57918e024873a377cc6ff61108
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260509T010000Z
 DTSTART:20260508T220000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:994044aeb7f0dc7fe28165a74f0d3ca9
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:6038c75aa9fa0ff997531470034c4205
 END:VEVENT
 END:VCALENDAR

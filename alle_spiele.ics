@@ -3,690 +3,690 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
-DTEND:20260503T100000Z
-DTSTART:20260503T083000Z
-SUMMARY:🏠 Heim:U15 ASV Neufeld vs SPG Rosalia/Marz
-UID:dcc77fe6e64a99c06c2732204467404c
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
-DTEND:20260328T101000Z
-DTSTART:20260328T090000Z
-SUMMARY:🚗 Auswärts:U11 ASV Neufeld vs Steinbrunn
-UID:41fd9acd9a30d3d9cb8ff1b763e89d92
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
-DTEND:20260321T164500Z
-DTSTART:20260321T150000Z
-SUMMARY:🏠 Heim:KM ASV Neufeld vs Tadten
-UID:78bf3f5ac6c8247cff6a8a9aa0c82ee1
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
-DTEND:20260529T183000Z
-DTSTART:20260529T170000Z
-SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SPG Leitha/Stotzing
-UID:5aca0164788916f6f4482c5e3521c4dd
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
-DTEND:20260517T131000Z
-DTSTART:20260517T120000Z
-SUMMARY:🚗 Auswärts:U11 ASV Neufeld vs SPG Waha St. Margarethen
-UID:35554111bfbe132f178f7834c5958dd1
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
-DTEND:20260412T144500Z
-DTSTART:20260412T130000Z
-SUMMARY:🏠 Heim:U16 ASV Neufeld vs SPG SVO-Edelserpentin
-UID:11e01e6ccfd3c0b6754f62179aa81155
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
-DTEND:20260614T113000Z
-DTSTART:20260614T083000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:e9f36d390a20e230c09990af3c9420e2
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
-DTEND:20260423T161000Z
-DTSTART:20260423T150000Z
-SUMMARY:🏠 Heim:U11 ASV Neufeld vs Stotzing
-UID:7aecf3f2ba1196b343d22c6e506b56dc
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
-DTEND:20260509T103000Z
-DTSTART:20260509T073000Z
-SUMMARY:🚗 Auswärts:U8 ASV Neufeld vs viele Gegner
-UID:677d1ef76ebfb414c7468cc8adde94ca
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
-DTEND:20260411T103000Z
-DTSTART:20260411T073000Z
-SUMMARY:🏠 Heim:U9 ASV Neufeld vs viele Gegner
-UID:4a9cf853ecbcb7c39413895ff8d98da8
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
-DTEND:20260418T103000Z
-DTSTART:20260418T073000Z
-SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
-UID:4057eef9af6439117bbeda26d08ffc1a
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n\n
-DTEND:20260418T151500Z
-DTSTART:20260418T133000Z
-SUMMARY:🏠 Heim:U23 ASV Neufeld vs Steinbrunn
-UID:7a219a9ce15c44b2c24aae32aa05d692
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
-DTEND:20260524T181500Z
-DTSTART:20260524T163000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Wimpassing
-UID:42bd4a7ae7a4da8e474dd533648163e5
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n\n
-DTEND:20260426T103500Z
-DTSTART:20260426T090000Z
-SUMMARY:🏠 Heim:U13 ASV Neufeld vs SPG Breitenbrunn/Purbach/Winden
-UID:8e91dad0ccd0b15068d1d253ef17e98b
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
-DTEND:20260424T194500Z
-DTSTART:20260424T180000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Deutsch-Jahrndorf
-UID:7bd34f54a32e81a79c663babc4c7038a
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
 DTEND:20260411T121000Z
 DTSTART:20260411T110000Z
-SUMMARY:🏠 Heim:U11 ASV Neufeld vs SPG Waha St. Margarethen
-UID:0ff35a1902bda9156089a517d2ee741f
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n\n
-DTEND:20260531T173500Z
-DTSTART:20260531T160000Z
-SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SPG Breitenbrunn/Purbach/Windne
-UID:1653e84c8234f191cc5ea8c3762a3109
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
-DTEND:20260412T154500Z
-DTSTART:20260412T140000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Andau
-UID:a03a50995153767d01f7749f9a7d7366
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
-DTEND:20260419T173000Z
-DTSTART:20260419T160000Z
-SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SC Kittsee
-UID:d46efafc2afcda13e813779c7b9f5cbe
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
-DTEND:20260404T164500Z
-DTSTART:20260404T150000Z
-SUMMARY:🏠 Heim:KM ASV Neufeld vs Illmitz
-UID:cb07d954706bed86b5dde3eb528a7934
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: U23\n\n
-DTEND:20260530T161500Z
-DTSTART:20260530T143000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Winden
-UID:442e5217ebc3fafdea92270b22542309
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
-DTEND:20260515T194500Z
-DTSTART:20260515T180000Z
-SUMMARY:🏠 Heim:KM ASV Neufeld vs Pama
-UID:dd7bb594c11805aa3d8160881983cdf4
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
-DTEND:20260529T161000Z
-DTSTART:20260529T150000Z
-SUMMARY:🚗 Auswärts:U11 ASV Neufeld vs Stotzing
-UID:fefb18d0f798d018a9db0e824799f690
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n\n
-DTEND:20260613T150000Z
-DTSTART:20260613T080000Z
-SUMMARY:🏠 Heim:GGG ASV Neufeld vs viele Gegner
-UID:a106c60d00b1b2cce9d1ac4bc41bae6d
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
-DTEND:20260425T103000Z
-DTSTART:20260425T073000Z
-SUMMARY:🚗 Auswärts:U8 ASV Neufeld vs viele Gegner
-UID:dc05b9b0da62f73dae61474436e6e394
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
-DTEND:20260606T174500Z
-DTSTART:20260606T160000Z
-SUMMARY:🏠 Heim:KM ASV Neufeld vs Kittsee
-UID:f45288a564cc600ec7fb259902defc56
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: U23\n\n
-DTEND:20260412T134500Z
-DTSTART:20260412T120000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Andau
-UID:6d4eea79bd85a62556a9fe62561d6dc8
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
-DTEND:20260315T161500Z
-DTSTART:20260315T143000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Rust
-UID:54a3422c52674dc0ed58a7197765472d
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
-DTEND:20260509T091000Z
-DTSTART:20260509T080000Z
-SUMMARY:🏠 Heim:U11 ASV Neufeld vs Steinbrunn
-UID:7401b71f83bd0aaf5863c3015e6a7f02
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
-DTEND:20260509T164500Z
-DTSTART:20260509T150000Z
-SUMMARY:🏠 Heim:U16 ASV Neufeld vs SV Leithaprodersdorf
-UID:25f33609173cd58ac1abd8667663da02
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
-DTEND:20260411T103000Z
-DTSTART:20260411T073000Z
-SUMMARY:🏠 Heim:U7 ASV Neufeld vs viele Gegner
-UID:b7c31bcfd64b08de94b1845e9d628dbb
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
-DTEND:20260607T164500Z
-DTSTART:20260607T150000Z
-SUMMARY:🏠 Heim:U16 ASV Neufeld vs St. Georgen/Eisenstadt
-UID:9985054f8dabfc49f6000c7dbf2869b5
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
-DTEND:20260606T133000Z
-DTSTART:20260606T120000Z
-SUMMARY:🚗 Auswärts:U15 ASV Neufeld vs SPG Rosalia/Marz
-UID:0b1fc272fbf237dea5b85e53acfde84f
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: U23\n\n
-DTEND:20260404T144500Z
-DTSTART:20260404T130000Z
-SUMMARY:🏠 Heim:U23 ASV Neufeld vs Illmitz
-UID:138a70845a83acd3807f5714a12b73c7
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
-DTEND:20260521T183000Z
-DTSTART:20260521T170000Z
-SUMMARY:🏠 Heim:U14 ASV Neufeld vs SC Kittsee
-UID:b3d36c764f6a8ed220ba7b0273f0af0e
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
-DTEND:20260516T143000Z
-DTSTART:20260516T130000Z
-SUMMARY:🏠 Heim:U14 ASV Neufeld vs SK Pama
-UID:92f7c0903eab203d0b8ec3982261d0fe
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
-DTEND:20260502T174500Z
-DTSTART:20260502T160000Z
-SUMMARY:🏠 Heim:KM ASV Neufeld vs Hornstein
-UID:d8fda980382f1bd8745de4a142dd18c0
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
-DTEND:20260411T103000Z
-DTSTART:20260411T073000Z
-SUMMARY:🏠 Heim:U8 ASV Neufeld vs viele Gegner
-UID:43c5fdf4ed3c53e98ce4a544c3f67781
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
-DTEND:20260607T113000Z
-DTSTART:20260607T083000Z
-SUMMARY:🚗 Auswärts:U8 ASV Neufeld vs viele Gegner
-UID:ac3b4a50c1428a9d791c3c3081392cad
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
-DTEND:20260509T173000Z
-DTSTART:20260509T160000Z
-SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SV Wulkaprodersdorf
-UID:cc88a95cf52ec03b37fc3954ce8add64
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
-DTEND:20260419T140000Z
-DTSTART:20260419T110000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:0f806a1c3e64e845e27fbf3d9bee6e7e
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
-DTEND:20260509T123000Z
-DTSTART:20260509T093000Z
-SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
-UID:4a37ef5dca52178a126576af9b6d1509
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
-DTEND:20260419T164500Z
-DTSTART:20260419T150000Z
-SUMMARY:🚗 Auswärts:U16 ASV Neufeld vs SV BB1 Wolfau
-UID:a7480c36cd94e0c09e1331822ee1f3cb
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
-DTEND:20260503T143500Z
-DTSTART:20260503T130000Z
-SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SPG Leitha/Stotzing
-UID:5f953a40f9d6a68a166a3c6ab6a584ea
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
-DTEND:20260502T113000Z
-DTSTART:20260502T083000Z
-SUMMARY:🚗 Auswärts:U8 ASV Neufeld vs viele Gegner
-UID:f93d627eadc889097ab662c17bcb0fb0
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
-DTEND:20260410T180000Z
-DTSTART:20260410T163000Z
-SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SK Pama
-UID:ad07241412d5440ad47a16773c0ed703
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs SPG Waha St. Margarethen
+UID:96e2baf2ec072470ed83f7a1c1544930
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
 DTEND:20260531T121500Z
 DTSTART:20260531T103000Z
-SUMMARY:🚗 Auswärts:U16 ASV Neufeld vs SPG DER CLUB/Kirchschlag
-UID:380f1e8f9cdb14a4973b62bee1fd33e2
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: U23\n\n
-DTEND:20260515T174500Z
-DTSTART:20260515T160000Z
-SUMMARY:🏠 Heim:U23 ASV Neufeld vs Pama
-UID:b54284f524a60427cd51a7bb121bf601
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n\n
-DTEND:20260424T174500Z
-DTSTART:20260424T160000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Deutsch-Jahrndorf
-UID:fdf58f0d9c6ebdd6f1bd93ad2ff863d1
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
-DTEND:20260530T181500Z
-DTSTART:20260530T163000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Winden
-UID:5930b77a17db7f789219085482c148d9
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
-DTEND:20260525T153500Z
-DTSTART:20260525T140000Z
-SUMMARY:🏠 Heim:U13 ASV Neufeld vs SC Eisenstadt/Rust
-UID:7db5fd47a6adfe0caebcd312ecc6db02
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
-DTEND:20260321T144500Z
-DTSTART:20260321T130000Z
-SUMMARY:🏠 Heim:U23 ASV Neufeld vs Tadten
-UID:632075c81d190136f451198d56369346
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
-DTEND:20260523T183000Z
-DTSTART:20260523T170000Z
-SUMMARY:🚗 Auswärts:U15 ASV Neufeld vs FC Großhöflein
-UID:8be78d49c2ea46916797bf1c7d241791
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
-DTEND:20260509T171500Z
-DTSTART:20260509T153000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Gols
-UID:89db07b221f8be54135f00b6174e663a
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
-DTEND:20260607T103500Z
-DTSTART:20260607T090000Z
-SUMMARY:🏠 Heim:U13 ASV Neufeld vs SPG Leitha/Stotzing
-UID:27bea156c2b91d22e27b6fc64a44c068
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
-DTEND:20260425T103000Z
-DTSTART:20260425T090000Z
-SUMMARY:🏠 Heim:U14 ASV Neufeld vs SPG Leitha/Stotzing
-UID:2408ad9f77ce2afbfc09d42273aa8919
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: U23\n\n
-DTEND:20260502T154500Z
-DTSTART:20260502T140000Z
-SUMMARY:🏠 Heim:U23 ASV Neufeld vs Hornstein
-UID:19be83dd98df99cb2b373ef0db4c964c
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
-DTEND:20260509T010000Z
-DTSTART:20260508T220000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:994044aeb7f0dc7fe28165a74f0d3ca9
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
-DTEND:20260329T154500Z
-DTSTART:20260329T140000Z
-SUMMARY:🚗 Auswärts:U16 ASV Neufeld vs SV Leithaprodersdorf
-UID:24b37d1d193d6cd593893ed470ef5a40
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
-DTEND:20260401T140000Z
-DTSTART:20260401T070000Z
-SUMMARY:🏠 Heim:Camp ASV Neufeld vs Teco 7 Camp
-UID:23b3757fc263b298ca740f8842c9e8cb
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
-DTEND:20260315T141500Z
-DTSTART:20260315T123000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Rust
-UID:19ef75d91833fe820c4f7786c2321e58
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
-DTEND:20260501T151500Z
-DTSTART:20260501T133000Z
-SUMMARY:🚗 Auswärts:U16 ASV Neufeld vs St. Georgen/Eisenstadt
-UID:b7b998bf0dfd4d103b44e49e5b77ef51
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
-DTEND:20260425T180000Z
-DTSTART:20260425T163000Z
-SUMMARY:🚗 Auswärts:U15 ASV Neufeld vs SC Neusiedl am See 1919
-UID:9298f4b304d6292861c2015dd2ed42eb
+SUMMARY:🚗 Auswärts: U16 SPG DER CLUB/Kirchschlag vs ASV Neufeld
+UID:80757318d9a2de9bc316ac541e021b21
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n\n
 DTEND:20260524T161500Z
 DTSTART:20260524T143000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Wimpassing
-UID:b08e935a8c00d2fa8829b8364096b52c
+SUMMARY:🚗 Auswärts: U23 Wimpassing vs ASV Neufeld
+UID:523fbe94d36ae1dd79f0d5f5399f13be
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
-DTEND:20260501T010000Z
-DTSTART:20260430T220000Z
-SUMMARY:🚗 Auswärts:U7 ASV Neufeld vs viele Gegner
-UID:75a467c2737eceb2898be8801c1823a0
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
+DTEND:20260524T181500Z
+DTSTART:20260524T163000Z
+SUMMARY:🚗 Auswärts: KM Wimpassing vs ASV Neufeld
+UID:2f7419a6537d979dbe58e8acac773b26
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
-DTEND:20260425T153000Z
-DTSTART:20260425T123000Z
-SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
-UID:9cb4ec1bed4a698cc55aa452ee78c3d0
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n\n
+DTEND:20260531T173500Z
+DTSTART:20260531T160000Z
+SUMMARY:🚗 Auswärts: U13 SPG Breitenbrunn/Purbach/Windne vs ASV Neufeld
+UID:f88ff7fd5f3fc38331feb6433684dbca
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
-DTEND:20260522T161000Z
-DTSTART:20260522T150000Z
-SUMMARY:🏠 Heim:U11 ASV Neufeld vs SPG Klimpuh
-UID:08abd55515b31708c942ff4568543c10
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
-DTEND:20260330T140000Z
-DTSTART:20260330T070000Z
-SUMMARY:🏠 Heim:Camp ASV Neufeld vs Teco 7 Camp
-UID:9b27a93f4b659be8e5a1317dec05dbcc
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
-DTEND:20260418T171500Z
-DTSTART:20260418T153000Z
-SUMMARY:🏠 Heim:KM ASV Neufeld vs Steinbrunn
-UID:063dcdd3b37fb4e9d2ab2359409cea86
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
-DTEND:20260328T141500Z
-DTSTART:20260328T123000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Gattendorf
-UID:a3e66c63771dd2d4958f682772c44b4b
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
-DTEND:20260517T171500Z
-DTSTART:20260517T153000Z
-SUMMARY:🚗 Auswärts:U16 ASV Neufeld vs SPG SVO-Edelserpentin
-UID:818796645a7eca4cd7acb9d436939ca9
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
-DTEND:20260419T131000Z
-DTSTART:20260419T120000Z
-SUMMARY:🚗 Auswärts:U11 ASV Neufeld vs SPG Klimpuh
-UID:cfbb02bb34df3cf459735160e175fe05
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
-DTEND:20260515T170000Z
-DTSTART:20260515T153000Z
-SUMMARY:🚗 Auswärts:U15 ASV Neufeld vs SC/ESV Parndorf 1919
-UID:c507aa421302318c31bf625a4d5d9c1a
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: U23\n\n
-DTEND:20260606T154500Z
-DTSTART:20260606T140000Z
-SUMMARY:🏠 Heim:U23 ASV Neufeld vs Kittsee
-UID:7fd89807afd8a13881179799b720ec88
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
-DTEND:20260621T113000Z
-DTSTART:20260621T083000Z
-SUMMARY:🚗 Auswärts:U9 ASV Neufeld vs viele Gegner
-UID:5e76b339ffcb0a765aa1999e4108b59d
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
-DTEND:20260418T143500Z
-DTSTART:20260418T130000Z
-SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SC Eisenstadt/Rust
-UID:2bec59c92a1b7ba104f6a5be9517f5f4
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
-DTEND:20260331T140000Z
-DTSTART:20260331T070000Z
-SUMMARY:🏠 Heim:Camp ASV Neufeld vs Teco 7 Camp
-UID:d507becfc6e98639d5c40d6c5006e620
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n\n
-DTEND:20260822T160000Z
-DTSTART:20260822T070000Z
-SUMMARY:🏠 Heim:GGG ASV Neufeld vs viele Gegner
-UID:ef1cd840fc25bdf36fb7726fe252dff0
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n\n
+DTEND:20260424T174500Z
+DTSTART:20260424T160000Z
+SUMMARY:🚗 Auswärts: U23 Deutsch-Jahrndorf vs ASV Neufeld
+UID:8c34802a029e3afa1e48fef8a4ef2fec
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
-DTEND:20260416T180000Z
-DTSTART:20260416T163000Z
-SUMMARY:🏠 Heim:U15 ASV Neufeld vs FC Großhöflein
-UID:6aa21bdc3757a122ef69beaef8df17a8
+DTEND:20260523T183000Z
+DTSTART:20260523T170000Z
+SUMMARY:🚗 Auswärts: U15 FC Großhöflein vs ASV Neufeld
+UID:a677d3f17985eebc86f3b03adcb74dd5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
-DTEND:20260321T141500Z
-DTSTART:20260321T123000Z
-SUMMARY:🏠 Heim:U16 ASV Neufeld vs SV BB1 Wolfau
-UID:8a00dbd0b5b36bf208472ad290214760
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
-DTEND:20260531T100000Z
-DTSTART:20260531T083000Z
-SUMMARY:🏠 Heim:U15 ASV Neufeld vs SC Neusiedl am See 1919
-UID:dc98bb5ed90c33c203316ff73156d1a1
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
-DTEND:20260509T103500Z
-DTSTART:20260509T090000Z
-SUMMARY:🚗 Auswärts:U13 ASV Neufeld vs SC Kittsee
-UID:71b79f86de4ef1413cb2df592b8c0348
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: U23\n\n
-DTEND:20260509T151500Z
-DTSTART:20260509T133000Z
-SUMMARY:🚗 Auswärts:U23 ASV Neufeld vs Gols
-UID:24e0de655d3969d31f7db466cdca0f6e
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
-DTEND:20260426T141500Z
-DTSTART:20260426T123000Z
-SUMMARY:🏠 Heim:U16 ASV Neufeld vs SPG DER CLUB/Kirchschlag
-UID:0539a97fab419c1f0c0107586ac1e99f
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
-DTEND:20260412T123000Z
-DTSTART:20260412T110000Z
-SUMMARY:🏠 Heim:U15 ASV Neufeld vs SC/ESV Parndorf 1919
-UID:9d5dc3843886acdffec6204756781069
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
+DTEND:20260606T174500Z
+DTSTART:20260606T160000Z
+SUMMARY:🏠 Heim: KM ASV Neufeld vs Kittsee
+UID:1ac7a942598eae0c4c0b8a3401dcd818
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
 DTEND:20260328T161500Z
 DTSTART:20260328T143000Z
-SUMMARY:🚗 Auswärts:KM ASV Neufeld vs Gattendorf
-UID:204cab04eb0cf4e93e4ec46c0e21d10e
+SUMMARY:🚗 Auswärts: KM Gattendorf vs ASV Neufeld
+UID:f2905c3811616513eab7c2d7f38effe4
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
+DTEND:20260423T161000Z
+DTSTART:20260423T150000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs Stotzing
+UID:bdc92cf2815b9386a740322799d1d219
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: U23\n\n
+DTEND:20260412T134500Z
+DTSTART:20260412T120000Z
+SUMMARY:🚗 Auswärts: U23 Andau vs ASV Neufeld
+UID:0f90c24415c38edabe5205948bb05a07
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
+DTEND:20260525T153500Z
+DTSTART:20260525T140000Z
+SUMMARY:🏠 Heim: U13 ASV Neufeld vs SC Eisenstadt/Rust
+UID:4f8288c0af14a90033e1c41c42f2dfc4
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DTEND:20260419T140000Z
+DTSTART:20260419T110000Z
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:425554c19c83a6d74f2d4632d8aeec36
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DTEND:20260328T101000Z
+DTSTART:20260328T090000Z
+SUMMARY:🚗 Auswärts: U11 Steinbrunn vs ASV Neufeld
+UID:20b8580ae043ffbac75181d35d2fec85
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DTEND:20260321T141500Z
+DTSTART:20260321T123000Z
+SUMMARY:🏠 Heim: U16 ASV Neufeld vs SV BB1 Wolfau
+UID:aa79adc912f8b72e1f10918a817377b3
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DTEND:20260515T170000Z
+DTSTART:20260515T153000Z
+SUMMARY:🚗 Auswärts: U15 SC/ESV Parndorf 1919 vs ASV Neufeld
+UID:7553c40929657383cb94be914a6cc8fb
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DTEND:20260425T103000Z
+DTSTART:20260425T073000Z
+SUMMARY:🚗 Auswärts: U8 viele Gegner vs ASV Neufeld
+UID:3419b9f4c44a0f4a17fe185e1a34e2d9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
+DTEND:20260509T103500Z
+DTSTART:20260509T090000Z
+SUMMARY:🚗 Auswärts: U13 SC Kittsee vs ASV Neufeld
+UID:811caf0f5ed125913ca6e56f09a7cef8
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
+DTEND:20260315T141500Z
+DTSTART:20260315T123000Z
+SUMMARY:🚗 Auswärts: U23 Rust vs ASV Neufeld
+UID:0b73126eb88611e680d3df2a9f59824d
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DTEND:20260509T173000Z
+DTSTART:20260509T160000Z
+SUMMARY:🚗 Auswärts: U14 SV Wulkaprodersdorf vs ASV Neufeld
+UID:e7b80cb3bc1f9f4bb7dfa0a7eac0cb09
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DTEND:20260411T103000Z
+DTSTART:20260411T073000Z
+SUMMARY:🏠 Heim: U9 ASV Neufeld vs viele Gegner
+UID:c5f2ec5ee29cad0b4c574542ec8f3af9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
+DTEND:20260321T144500Z
+DTSTART:20260321T130000Z
+SUMMARY:🏠 Heim: U23 ASV Neufeld vs Tadten
+UID:6835b7c4dd16764d853dd5fa3b5ca7dc
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DTEND:20260425T103000Z
+DTSTART:20260425T090000Z
+SUMMARY:🏠 Heim: U14 ASV Neufeld vs SPG Leitha/Stotzing
+UID:7b2d4be383865ac1969b9149aae065ca
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DTEND:20260419T164500Z
+DTSTART:20260419T150000Z
+SUMMARY:🚗 Auswärts: U16 SV BB1 Wolfau vs ASV Neufeld
+UID:e9971485b318cc489e4b7b2cccd06da5
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: U23\n\n
+DTEND:20260502T154500Z
+DTSTART:20260502T140000Z
+SUMMARY:🏠 Heim: U23 ASV Neufeld vs Hornstein
+UID:e5cb80c693ea819f4e201304980e0cb3
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DTEND:20260401T140000Z
+DTSTART:20260401T070000Z
+SUMMARY:🏠 Heim: Camp ASV Neufeld vs Teco 7 Camp
+UID:eb3e9bcc4ec433207ca6c2db6e1424e3
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n\n
+DTEND:20260822T160000Z
+DTSTART:20260822T070000Z
+SUMMARY:🏠 Heim: GGG ASV Neufeld vs viele Gegner
+UID:fa22b116b672d5d9d6a715cff138f244
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DTEND:20260516T143000Z
+DTSTART:20260516T130000Z
+SUMMARY:🏠 Heim: U14 ASV Neufeld vs SK Pama
+UID:fb9396e9e396fb86e6860b27a052c291
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DTEND:20260531T100000Z
+DTSTART:20260531T083000Z
+SUMMARY:🏠 Heim: U15 ASV Neufeld vs SC Neusiedl am See 1919
+UID:ff0ea0163e5ed7d4aea6435ebd917960
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n\n
+DTEND:20260613T150000Z
+DTSTART:20260613T080000Z
+SUMMARY:🏠 Heim: GGG ASV Neufeld vs viele Gegner
+UID:a89eb44bd8af657179f375a57061b187
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DTEND:20260418T103000Z
+DTSTART:20260418T073000Z
+SUMMARY:🚗 Auswärts: U9 viele Gegner vs ASV Neufeld
+UID:0a19e69d504644b545e22a57f8b8bb3c
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: U23\n\n
+DTEND:20260515T174500Z
+DTSTART:20260515T160000Z
+SUMMARY:🏠 Heim: U23 ASV Neufeld vs Pama
+UID:545ea7b41aa34982ded8cb2d961e2b22
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
+DTEND:20260515T194500Z
+DTSTART:20260515T180000Z
+SUMMARY:🏠 Heim: KM ASV Neufeld vs Pama
+UID:15f56441581884f97654b595a9e7e8e6
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DTEND:20260529T183000Z
+DTSTART:20260529T170000Z
+SUMMARY:🚗 Auswärts: U14 SPG Leitha/Stotzing vs ASV Neufeld
+UID:a1618ae3a635cbdd70f131f22c90fac1
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: U23\n\n
+DTEND:20260509T151500Z
+DTSTART:20260509T133000Z
+SUMMARY:🚗 Auswärts: U23 Gols vs ASV Neufeld
+UID:5c463d38c159fbb3d019aaef7be6e3de
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DTEND:20260614T113000Z
+DTSTART:20260614T083000Z
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:920c3277a53510aae9d25212d902a9c1
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DTEND:20260411T103000Z
+DTSTART:20260411T073000Z
+SUMMARY:🏠 Heim: U8 ASV Neufeld vs viele Gegner
+UID:dd0119bab726dc0c35a3576b2888be7e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DTEND:20260411T103000Z
+DTSTART:20260411T073000Z
+SUMMARY:🏠 Heim: U7 ASV Neufeld vs viele Gegner
+UID:e76fb77e76fbf148f5f106ca947145e0
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DTEND:20260606T133000Z
+DTSTART:20260606T120000Z
+SUMMARY:🚗 Auswärts: U15 SPG Rosalia/Marz vs ASV Neufeld
+UID:f919c8e2d7d56b333e68b76182dc67f5
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
+DTEND:20260529T161000Z
+DTSTART:20260529T150000Z
+SUMMARY:🚗 Auswärts: U11 Stotzing vs ASV Neufeld
+UID:51c36804cdd60a52947ca6d8b5c6bcff
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DTEND:20260321T164500Z
+DTSTART:20260321T150000Z
+SUMMARY:🏠 Heim: KM ASV Neufeld vs Tadten
+UID:24ce4939468e10a55edf3db607597d69
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
+DTEND:20260416T180000Z
+DTSTART:20260416T163000Z
+SUMMARY:🏠 Heim: U15 ASV Neufeld vs FC Großhöflein
+UID:0fe48534b9e3f10c2776f25243dba841
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DTEND:20260521T183000Z
+DTSTART:20260521T170000Z
+SUMMARY:🏠 Heim: U14 ASV Neufeld vs SC Kittsee
+UID:61c7f2c354c7da6df63dfee79fc68ded
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
+DTEND:20260328T141500Z
+DTSTART:20260328T123000Z
+SUMMARY:🚗 Auswärts: U23 Gattendorf vs ASV Neufeld
+UID:ff9bdbf0521881de99f4d91c1a7e54a6
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
+DTEND:20260419T131000Z
+DTSTART:20260419T120000Z
+SUMMARY:🚗 Auswärts: U11 SPG Klimpuh vs ASV Neufeld
+UID:6082ea551b43b962f860f024219df95a
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
+DTEND:20260503T143500Z
+DTSTART:20260503T130000Z
+SUMMARY:🚗 Auswärts: U13 SPG Leitha/Stotzing vs ASV Neufeld
+UID:d892b20383081c19f8135cd63731b3f9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DTEND:20260425T180000Z
+DTSTART:20260425T163000Z
+SUMMARY:🚗 Auswärts: U15 SC Neusiedl am See 1919 vs ASV Neufeld
+UID:0bc2a1db877d95f85b7e05420309681d
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
+DTEND:20260607T103500Z
+DTSTART:20260607T090000Z
+SUMMARY:🏠 Heim: U13 ASV Neufeld vs SPG Leitha/Stotzing
+UID:b6739051d64073e07f0f891d7caa4aa6
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n\n
+DTEND:20260418T151500Z
+DTSTART:20260418T133000Z
+SUMMARY:🏠 Heim: U23 ASV Neufeld vs Steinbrunn
+UID:96c7ae11fa32ee4268d235319d4de7ef
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DTEND:20260509T103000Z
+DTSTART:20260509T073000Z
+SUMMARY:🚗 Auswärts: U8 viele Gegner vs ASV Neufeld
+UID:de1bc06e8cd80c83230c00e87822fddf
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DTEND:20260509T091000Z
+DTSTART:20260509T080000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs Steinbrunn
+UID:b4e0fad17f7da39e2013c2c826172714
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DTEND:20260501T010000Z
+DTSTART:20260430T220000Z
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:562bdd57918e024873a377cc6ff61108
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DTEND:20260412T123000Z
+DTSTART:20260412T110000Z
+SUMMARY:🏠 Heim: U15 ASV Neufeld vs SC/ESV Parndorf 1919
+UID:44604a7b2505be6471071c59bfe11b20
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
+DTEND:20260426T141500Z
+DTSTART:20260426T123000Z
+SUMMARY:🏠 Heim: U16 ASV Neufeld vs SPG DER CLUB/Kirchschlag
+UID:4d4654edfe61fe39fd6b2f519ca90db1
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DTEND:20260607T164500Z
+DTSTART:20260607T150000Z
+SUMMARY:🏠 Heim: U16 ASV Neufeld vs St. Georgen/Eisenstadt
+UID:5a576d2a1a0b6f10e82434c1293c2338
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DTEND:20260410T180000Z
+DTSTART:20260410T163000Z
+SUMMARY:🚗 Auswärts: U14 SK Pama vs ASV Neufeld
+UID:5ff69a98a3ffa53132a8cf012ad6c5c9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
+DTEND:20260517T131000Z
+DTSTART:20260517T120000Z
+SUMMARY:🚗 Auswärts: U11 SPG Waha St. Margarethen vs ASV Neufeld
+UID:be57598a2a9787977f9c921a89f28102
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DTEND:20260517T171500Z
+DTSTART:20260517T153000Z
+SUMMARY:🚗 Auswärts: U16 SPG SVO-Edelserpentin vs ASV Neufeld
+UID:ce8eb575791b63b07cc2bb00e43e71b3
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
+DTEND:20260418T143500Z
+DTSTART:20260418T130000Z
+SUMMARY:🚗 Auswärts: U13 SC Eisenstadt/Rust vs ASV Neufeld
+UID:8d245f15023365399ceb5a6b714a7fea
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DTEND:20260607T113000Z
+DTSTART:20260607T083000Z
+SUMMARY:🚗 Auswärts: U8 viele Gegner vs ASV Neufeld
+UID:1b78850333d19d29c4dcd5698343b5c9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: U23\n\n
+DTEND:20260530T161500Z
+DTSTART:20260530T143000Z
+SUMMARY:🚗 Auswärts: U23 Winden vs ASV Neufeld
+UID:e9ec38e8d3a4d67863ecb83976cb1295
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
+DTEND:20260412T154500Z
+DTSTART:20260412T140000Z
+SUMMARY:🚗 Auswärts: KM Andau vs ASV Neufeld
+UID:f6acea1ebcf600ce57109b70facfcde3
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
+DTEND:20260424T194500Z
+DTSTART:20260424T180000Z
+SUMMARY:🚗 Auswärts: KM Deutsch-Jahrndorf vs ASV Neufeld
+UID:9f62e88eecb5f52841cd23773dd1db26
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
+DTEND:20260522T161000Z
+DTSTART:20260522T150000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs SPG Klimpuh
+UID:401a473f3b9e1df918dbff780e86fefc
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
+DTEND:20260418T171500Z
+DTSTART:20260418T153000Z
+SUMMARY:🏠 Heim: KM ASV Neufeld vs Steinbrunn
+UID:e98c3c6349d2516eec7e1a4010e58b00
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
+DTEND:20260502T174500Z
+DTSTART:20260502T160000Z
+SUMMARY:🏠 Heim: KM ASV Neufeld vs Hornstein
+UID:4a128e86f461ce4d01e6f6b22b4d58b7
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DTEND:20260509T123000Z
+DTSTART:20260509T093000Z
+SUMMARY:🚗 Auswärts: U9 viele Gegner vs ASV Neufeld
+UID:e6e3b5d289560a316f7f9e204d18b7f8
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DTEND:20260419T173000Z
+DTSTART:20260419T160000Z
+SUMMARY:🚗 Auswärts: U14 SC Kittsee vs ASV Neufeld
+UID:3545769c915eec7aa17aaac672f8f22a
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: U23\n\n
+DTEND:20260606T154500Z
+DTSTART:20260606T140000Z
+SUMMARY:🏠 Heim: U23 ASV Neufeld vs Kittsee
+UID:2ee3c7f5f9ce70bb2957798109d8992a
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DTEND:20260425T153000Z
+DTSTART:20260425T123000Z
+SUMMARY:🚗 Auswärts: U9 viele Gegner vs ASV Neufeld
+UID:55fa15579e71def02e607b690a6e1cfc
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DTEND:20260503T100000Z
+DTSTART:20260503T083000Z
+SUMMARY:🏠 Heim: U15 ASV Neufeld vs SPG Rosalia/Marz
+UID:56bb2b7f5fae8264f3239e76eb409977
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DTEND:20260412T144500Z
+DTSTART:20260412T130000Z
+SUMMARY:🏠 Heim: U16 ASV Neufeld vs SPG SVO-Edelserpentin
+UID:de4805b5626b89a73c2c6b448ef325a4
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
+DTEND:20260404T164500Z
+DTSTART:20260404T150000Z
+SUMMARY:🏠 Heim: KM ASV Neufeld vs Illmitz
+UID:0eea08ec6c61e50babe1ed9da949484e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
+DTEND:20260509T171500Z
+DTSTART:20260509T153000Z
+SUMMARY:🚗 Auswärts: KM Gols vs ASV Neufeld
+UID:89b07586c85420a8a1c9b23085eaa7dc
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: U23\n\n
+DTEND:20260404T144500Z
+DTSTART:20260404T130000Z
+SUMMARY:🏠 Heim: U23 ASV Neufeld vs Illmitz
+UID:ba12688657ddc190d5c5c9bf2cf8c5cd
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DTEND:20260331T140000Z
+DTSTART:20260331T070000Z
+SUMMARY:🏠 Heim: Camp ASV Neufeld vs Teco 7 Camp
+UID:23de2e8a6d1c41ec7b27705b10dcd48e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n\n
+DTEND:20260426T103500Z
+DTSTART:20260426T090000Z
+SUMMARY:🏠 Heim: U13 ASV Neufeld vs SPG Breitenbrunn/Purbach/Winden
+UID:e46460f3df8f23be659133ab1942bf71
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DTEND:20260501T151500Z
+DTSTART:20260501T133000Z
+SUMMARY:🚗 Auswärts: U16 St. Georgen/Eisenstadt vs ASV Neufeld
+UID:e1107322e4960ad7893338422e21801b
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
+DTEND:20260530T181500Z
+DTSTART:20260530T163000Z
+SUMMARY:🚗 Auswärts: KM Winden vs ASV Neufeld
+UID:a72b4ae9931e0d67d2b4f2ec3fbac5c0
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DTEND:20260329T154500Z
+DTSTART:20260329T140000Z
+SUMMARY:🚗 Auswärts: U16 SV Leithaprodersdorf vs ASV Neufeld
+UID:c17cfcb9c42e187d1166bb15b4aa2675
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DTEND:20260502T113000Z
+DTSTART:20260502T083000Z
+SUMMARY:🚗 Auswärts: U8 viele Gegner vs ASV Neufeld
+UID:f1df75ddb09e4f7136a5601bb2aa0b82
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DTEND:20260315T161500Z
+DTSTART:20260315T143000Z
+SUMMARY:🚗 Auswärts: KM Rust vs ASV Neufeld
+UID:8fabbcf45d023b18e155d5e08b51a882
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DTEND:20260509T164500Z
+DTSTART:20260509T150000Z
+SUMMARY:🏠 Heim: U16 ASV Neufeld vs SV Leithaprodersdorf
+UID:7b3f5f05c9c9fdd7e4c479523fa60af5
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DTEND:20260621T113000Z
+DTSTART:20260621T083000Z
+SUMMARY:🚗 Auswärts: U9 viele Gegner vs ASV Neufeld
+UID:893d9b4eff9a5a084fa05f07864de72a
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DTEND:20260330T140000Z
+DTSTART:20260330T070000Z
+SUMMARY:🏠 Heim: Camp ASV Neufeld vs Teco 7 Camp
+UID:cca6fddef45b0bf61e54b870eb04084a
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DTEND:20260509T010000Z
+DTSTART:20260508T220000Z
+SUMMARY:🚗 Auswärts: U7 viele Gegner vs ASV Neufeld
+UID:6038c75aa9fa0ff997531470034c4205
 END:VEVENT
 END:VCALENDAR
