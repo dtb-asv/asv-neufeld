@@ -1,4 +1,60 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DTEND:20260410T180000Z
+DTSTART:20260410T163000Z
+SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SK Pama
+UID:ad07241412d5440ad47a16773c0ed703
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DTEND:20260425T103000Z
+DTSTART:20260425T090000Z
+SUMMARY:🏠 Heim:U14 ASV Neufeld vs SPG Leitha/Stotzing
+UID:2408ad9f77ce2afbfc09d42273aa8919
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DTEND:20260521T183000Z
+DTSTART:20260521T170000Z
+SUMMARY:🏠 Heim:U14 ASV Neufeld vs SC Kittsee
+UID:b3d36c764f6a8ed220ba7b0273f0af0e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DTEND:20260516T143000Z
+DTSTART:20260516T130000Z
+SUMMARY:🏠 Heim:U14 ASV Neufeld vs SK Pama
+UID:92f7c0903eab203d0b8ec3982261d0fe
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DTEND:20260419T173000Z
+DTSTART:20260419T160000Z
+SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SC Kittsee
+UID:d46efafc2afcda13e813779c7b9f5cbe
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DTEND:20260529T183000Z
+DTSTART:20260529T170000Z
+SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SPG Leitha/Stotzing
+UID:5aca0164788916f6f4482c5e3521c4dd
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DTEND:20260509T173000Z
+DTSTART:20260509T160000Z
+SUMMARY:🚗 Auswärts:U14 ASV Neufeld vs SV Wulkaprodersdorf
+UID:cc88a95cf52ec03b37fc3954ce8add64
+END:VEVENT
 END:VCALENDAR

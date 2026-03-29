@@ -44,6 +44,12 @@ def create_event(row):
         prefix = "📅 Spiel"
 
     titel = f"{prefix}:{liga} ASV Neufeld vs {gegner}"
+     # Status mitnehmen
+    status = str(row.get("STATUS", "Aktiv")).lower()
+
+    if status == "abgesagt":
+      titel = f"❌ ABGESAGT: {titel}"
+      beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
     
 
     # Zeiten (DST sicher)
@@ -61,13 +67,7 @@ def create_event(row):
       beschreibung = str(beschreibung)
 
     beschreibung_full = f"""
-     # Status mitnehmen
-    status = str(row.get("STATUS", "Aktiv")).lower()
-
-    if status == "abgesagt":
-      titel = f"❌ ABGESAGT: {titel}"
-      beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
-
+   
 {beschreibung}
    
 ⚽ Gegner: {gegner}

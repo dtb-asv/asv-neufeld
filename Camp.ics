@@ -1,4 +1,28 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DTEND:20260331T140000Z
+DTSTART:20260331T070000Z
+SUMMARY:🏠 Heim:Camp ASV Neufeld vs Teco 7 Camp
+UID:d507becfc6e98639d5c40d6c5006e620
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DTEND:20260330T140000Z
+DTSTART:20260330T070000Z
+SUMMARY:🏠 Heim:Camp ASV Neufeld vs Teco 7 Camp
+UID:9b27a93f4b659be8e5a1317dec05dbcc
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DTEND:20260401T140000Z
+DTSTART:20260401T070000Z
+SUMMARY:🏠 Heim:Camp ASV Neufeld vs Teco 7 Camp
+UID:23b3757fc263b298ca740f8842c9e8cb
+END:VEVENT
 END:VCALENDAR
