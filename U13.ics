@@ -35,6 +35,14 @@ UID:8d245f15023365399ceb5a6b714a7fea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n   \n\n\n❗ Dieses Spiel wurde abgesagt\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
+DTEND:20260329T103500Z
+DTSTART:20260329T090000Z
+SUMMARY:❌ ABGESAGT: 🏠 Heim: U13 ASV Neufeld vs SC Kittsee
+UID:e0c5a6ec1fc1dec786c648d9d2100568
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n\n
 DTEND:20260531T173500Z
 DTSTART:20260531T160000Z

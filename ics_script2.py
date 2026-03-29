@@ -57,11 +57,6 @@ def create_event(row):
     # Status mitnehmen
     status = str(row.get("STATUS", "Aktiv")).lower()
 
-    if status == "abgesagt":
-      titel = f"❌ ABGESAGT: {titel}"
-      beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
-    
-
     # Zeiten (DST sicher)
     start_naiv = pd.to_datetime(f"{row['DATUM']} {row['STARTZEIT']}")
     end_naiv = pd.to_datetime(f"{row['DATUM']} {row['ENDZEIT']}")
@@ -70,8 +65,11 @@ def create_event(row):
     end = tz.localize(end_naiv, is_dst=None)
 
     ort = str(row.get("Ort", ""))
-    beschreibung = row.get("BESCHREIBUNG", "")
     beschreibung = clean(row.get("BESCHREIBUNG"))
+    
+    if status == "abgesagt":
+      titel = f"❌ ABGESAGT: {titel}"
+      beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
 
     beschreibung_full = f"""
    
