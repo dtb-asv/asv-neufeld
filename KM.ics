@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
 DTEND:20260418T171500Z
 DTSTART:20260418T153000Z
 SUMMARY:🏠 Heim: KM ASV Neufeld vs Steinbrunn
@@ -11,7 +11,7 @@ UID:e98c3c6349d2516eec7e1a4010e58b00
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
 DTEND:20260502T174500Z
 DTSTART:20260502T160000Z
 SUMMARY:🏠 Heim: KM ASV Neufeld vs Hornstein
@@ -19,7 +19,7 @@ UID:4a128e86f461ce4d01e6f6b22b4d58b7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
 DTEND:20260315T161500Z
 DTSTART:20260315T143000Z
 SUMMARY:🚗 Auswärts: KM Rust vs ASV Neufeld
@@ -27,7 +27,7 @@ UID:8fabbcf45d023b18e155d5e08b51a882
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
 DTEND:20260524T181500Z
 DTSTART:20260524T163000Z
 SUMMARY:🚗 Auswärts: KM Wimpassing vs ASV Neufeld
@@ -35,7 +35,7 @@ UID:2f7419a6537d979dbe58e8acac773b26
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
 DTEND:20260515T194500Z
 DTSTART:20260515T180000Z
 SUMMARY:🏠 Heim: KM ASV Neufeld vs Pama
@@ -43,7 +43,7 @@ UID:15f56441581884f97654b595a9e7e8e6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
 DTEND:20260606T174500Z
 DTSTART:20260606T160000Z
 SUMMARY:🏠 Heim: KM ASV Neufeld vs Kittsee
@@ -51,7 +51,7 @@ UID:1ac7a942598eae0c4c0b8a3401dcd818
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
 DTEND:20260321T164500Z
 DTSTART:20260321T150000Z
 SUMMARY:🏠 Heim: KM ASV Neufeld vs Tadten
@@ -59,7 +59,7 @@ UID:24ce4939468e10a55edf3db607597d69
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
 DTEND:20260404T164500Z
 DTSTART:20260404T150000Z
 SUMMARY:🏠 Heim: KM ASV Neufeld vs Illmitz
@@ -67,7 +67,7 @@ UID:0eea08ec6c61e50babe1ed9da949484e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
 DTEND:20260328T161500Z
 DTSTART:20260328T143000Z
 SUMMARY:🚗 Auswärts: KM Gattendorf vs ASV Neufeld
@@ -75,7 +75,7 @@ UID:f2905c3811616513eab7c2d7f38effe4
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
 DTEND:20260530T181500Z
 DTSTART:20260530T163000Z
 SUMMARY:🚗 Auswärts: KM Winden vs ASV Neufeld
@@ -83,7 +83,7 @@ UID:a72b4ae9931e0d67d2b4f2ec3fbac5c0
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
 DTEND:20260509T171500Z
 DTSTART:20260509T153000Z
 SUMMARY:🚗 Auswärts: KM Gols vs ASV Neufeld
@@ -91,7 +91,7 @@ UID:89b07586c85420a8a1c9b23085eaa7dc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
 DTEND:20260412T154500Z
 DTSTART:20260412T140000Z
 SUMMARY:🚗 Auswärts: KM Andau vs ASV Neufeld
@@ -99,7 +99,7 @@ UID:f6acea1ebcf600ce57109b70facfcde3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
 DTEND:20260424T194500Z
 DTSTART:20260424T180000Z
 SUMMARY:🚗 Auswärts: KM Deutsch-Jahrndorf vs ASV Neufeld

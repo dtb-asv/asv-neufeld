@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
 DTEND:20260606T133000Z
 DTSTART:20260606T120000Z
 SUMMARY:🚗 Auswärts: U15 SPG Rosalia/Marz vs ASV Neufeld
@@ -11,7 +11,7 @@ UID:f919c8e2d7d56b333e68b76182dc67f5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
 DTEND:20260425T180000Z
 DTSTART:20260425T163000Z
 SUMMARY:🚗 Auswärts: U15 SC Neusiedl am See 1919 vs ASV Neufeld
@@ -19,7 +19,7 @@ UID:0bc2a1db877d95f85b7e05420309681d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
 DTEND:20260503T100000Z
 DTSTART:20260503T083000Z
 SUMMARY:🏠 Heim: U15 ASV Neufeld vs SPG Rosalia/Marz
@@ -27,7 +27,7 @@ UID:56bb2b7f5fae8264f3239e76eb409977
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
 DTEND:20260515T170000Z
 DTSTART:20260515T153000Z
 SUMMARY:🚗 Auswärts: U15 SC/ESV Parndorf 1919 vs ASV Neufeld
@@ -35,7 +35,7 @@ UID:7553c40929657383cb94be914a6cc8fb
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
 DTEND:20260416T180000Z
 DTSTART:20260416T163000Z
 SUMMARY:🏠 Heim: U15 ASV Neufeld vs FC Großhöflein
@@ -43,7 +43,7 @@ UID:0fe48534b9e3f10c2776f25243dba841
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
 DTEND:20260523T183000Z
 DTSTART:20260523T170000Z
 SUMMARY:🚗 Auswärts: U15 FC Großhöflein vs ASV Neufeld
@@ -51,7 +51,7 @@ UID:a677d3f17985eebc86f3b03adcb74dd5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
 DTEND:20260412T123000Z
 DTSTART:20260412T110000Z
 SUMMARY:🏠 Heim: U15 ASV Neufeld vs SC/ESV Parndorf 1919
@@ -59,7 +59,7 @@ UID:44604a7b2505be6471071c59bfe11b20
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
 DTEND:20260531T100000Z
 DTSTART:20260531T083000Z
 SUMMARY:🏠 Heim: U15 ASV Neufeld vs SC Neusiedl am See 1919

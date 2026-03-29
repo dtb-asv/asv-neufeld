@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
 DTEND:20260529T183000Z
 DTSTART:20260529T170000Z
 SUMMARY:🚗 Auswärts: U14 SPG Leitha/Stotzing vs ASV Neufeld
@@ -11,7 +11,7 @@ UID:a1618ae3a635cbdd70f131f22c90fac1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
 DTEND:20260425T103000Z
 DTSTART:20260425T090000Z
 SUMMARY:🏠 Heim: U14 ASV Neufeld vs SPG Leitha/Stotzing
@@ -19,7 +19,7 @@ UID:7b2d4be383865ac1969b9149aae065ca
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
 DTEND:20260410T180000Z
 DTSTART:20260410T163000Z
 SUMMARY:🚗 Auswärts: U14 SK Pama vs ASV Neufeld
@@ -27,7 +27,15 @@ UID:5ff69a98a3ffa53132a8cf012ad6c5c9
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n\n❗ Dieses Spiel wurde abgesagt\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DTEND:20260328T163000Z
+DTSTART:20260328T150000Z
+SUMMARY:❌ ABGESAGT: 🏠 Heim: U14 ASV Neufeld vs SV Wulkaprodersdorf
+UID:edce6931603b3cb4bac0e2cdd5ba671a
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
 DTEND:20260419T173000Z
 DTSTART:20260419T160000Z
 SUMMARY:🚗 Auswärts: U14 SC Kittsee vs ASV Neufeld
@@ -35,7 +43,7 @@ UID:3545769c915eec7aa17aaac672f8f22a
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
 DTEND:20260521T183000Z
 DTSTART:20260521T170000Z
 SUMMARY:🏠 Heim: U14 ASV Neufeld vs SC Kittsee
@@ -43,7 +51,7 @@ UID:61c7f2c354c7da6df63dfee79fc68ded
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
 DTEND:20260516T143000Z
 DTSTART:20260516T130000Z
 SUMMARY:🏠 Heim: U14 ASV Neufeld vs SK Pama
@@ -51,7 +59,7 @@ UID:fb9396e9e396fb86e6860b27a052c291
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DESCRIPTION:   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
 DTEND:20260509T173000Z
 DTSTART:20260509T160000Z
 SUMMARY:🚗 Auswärts: U14 SV Wulkaprodersdorf vs ASV Neufeld
