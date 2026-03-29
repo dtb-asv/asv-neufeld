@@ -323,14 +323,6 @@ UID:51c36804cdd60a52947ca6d8b5c6bcff
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n\n❗ Dieses Spiel wurde abgesagt\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
-DTEND:20260328T163000Z
-DTSTART:20260328T150000Z
-SUMMARY:❌ ABGESAGT: 🏠 Heim: U14 ASV Neufeld vs SV Wulkaprodersdorf
-UID:edce6931603b3cb4bac0e2cdd5ba671a
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
 DTEND:20260321T164500Z
 DTSTART:20260321T150000Z
@@ -624,14 +616,6 @@ DTEND:20260426T103500Z
 DTSTART:20260426T090000Z
 SUMMARY:🏠 Heim: U13 ASV Neufeld vs SPG Breitenbrunn/Purbach/Winden
 UID:e46460f3df8f23be659133ab1942bf71
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n   \n\n\n❗ Dieses Spiel wurde abgesagt\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
-DTEND:20260329T103500Z
-DTSTART:20260329T090000Z
-SUMMARY:❌ ABGESAGT: 🏠 Heim: U13 ASV Neufeld vs SC Kittsee
-UID:e0c5a6ec1fc1dec786c648d9d2100568
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

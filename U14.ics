@@ -27,14 +27,6 @@ UID:5ff69a98a3ffa53132a8cf012ad6c5c9
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n   \n\n\n❗ Dieses Spiel wurde abgesagt\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
-DTEND:20260328T163000Z
-DTSTART:20260328T150000Z
-SUMMARY:❌ ABGESAGT: 🏠 Heim: U14 ASV Neufeld vs SV Wulkaprodersdorf
-UID:edce6931603b3cb4bac0e2cdd5ba671a
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
 DTEND:20260419T173000Z
 DTSTART:20260419T160000Z
