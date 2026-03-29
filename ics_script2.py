@@ -48,7 +48,7 @@ def create_event(row):
     status = str(row.get("STATUS", "Aktiv")).lower()
 
     if status == "abgesagt":
-       titel = f"❌ ABGESAGT: {titel}"
+       titel = f"❌ ABGESAGT!!!: {titel}"
 
     # Zeiten (DST sicher)
     start_naiv = pd.to_datetime(f"{row['DATUM']} {row['STARTZEIT']}")
