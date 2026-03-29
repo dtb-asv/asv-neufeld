@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
-DTEND:20260328T163000Z
-DTSTART:20260328T150000Z
-SUMMARY:❌ ABGESAGT!!!: 🏠 Heim:U14 ASV Neufeld vs SV Wulkaprodersdorf
-UID:e182495e35fb7709008308fd5b3f07ae
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
 DTEND:20260410T180000Z
 DTSTART:20260410T163000Z
