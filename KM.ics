@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
 DTEND:20260424T194500Z
 DTSTART:20260424T180000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Deutsch-Jahrndorf
@@ -11,7 +11,7 @@ UID:f2ec69fd3a8ffa1e5367805efad46c9f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
 DTEND:20260509T171500Z
 DTSTART:20260509T153000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Gols
@@ -19,7 +19,7 @@ UID:398ef1067c425eeb64a55dfaaab20fb5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
 DTEND:20260515T194500Z
 DTSTART:20260515T180000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Pama
@@ -27,7 +27,7 @@ UID:936986c13a29b6ac20b655849284fcb7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
 DTEND:20260606T174500Z
 DTSTART:20260606T160000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Kittsee
@@ -35,7 +35,7 @@ UID:1c3258a331c2676927a98e23bfc98a86
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
 DTEND:20260502T174500Z
 DTSTART:20260502T160000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Hornstein
@@ -43,7 +43,7 @@ UID:8b9418ab278807d68bce720e8290555c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
 DTEND:20260321T164500Z
 DTSTART:20260321T150000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Tadten
@@ -51,7 +51,7 @@ UID:7a72bc1585407225a0eb7cc33ff93044
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
 DTEND:20260315T161500Z
 DTSTART:20260315T143000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Rust
@@ -59,7 +59,7 @@ UID:db2fa188698d68a56974c9b566d62cea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
 DTEND:20260328T161500Z
 DTSTART:20260328T143000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Gattendorf
@@ -67,7 +67,7 @@ UID:ad996c15ece7ce7975c8b95bf2bd80ec
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
 DTEND:20260530T181500Z
 DTSTART:20260530T163000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Winden
@@ -75,7 +75,7 @@ UID:2901d77a333e5cb19b020342794eb835
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
 DTEND:20260404T164500Z
 DTSTART:20260404T150000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Illmitz
@@ -83,7 +83,7 @@ UID:74e5929fcbcc79c67a64cd50fd2b877c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
 DTEND:20260524T181500Z
 DTSTART:20260524T163000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Wimpassing
@@ -91,7 +91,7 @@ UID:82b2becaaadb0f390d30e8b141ebb466
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
 DTEND:20260418T171500Z
 DTSTART:20260418T153000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Steinbrunn
@@ -99,7 +99,7 @@ UID:677898c1c5ef58d7d2f71ed7170905f0
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
 DTEND:20260412T154500Z
 DTSTART:20260412T140000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Andau

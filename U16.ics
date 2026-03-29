@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
 DTEND:20260607T164500Z
 DTSTART:20260607T150000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs St. Georgen/Eisenstadt
@@ -11,7 +11,7 @@ UID:fb23a400f1ef200443543d36dcfa32fb
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
 DTEND:20260531T121500Z
 DTSTART:20260531T103000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG DER CLUB/Kirchschlag
@@ -19,7 +19,7 @@ UID:36dd49080a2b9af6940b2bcb1c469d8a
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
 DTEND:20260321T141500Z
 DTSTART:20260321T123000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs SV BB1 Wolfau
@@ -27,7 +27,7 @@ UID:6fc57dfe06608d5eeab97b422a1a07cd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
 DTEND:20260517T171500Z
 DTSTART:20260517T153000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG SVO-Edelserpentin
@@ -35,7 +35,7 @@ UID:98a5583a7a82618355e77d0c8cda930b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
 DTEND:20260509T164500Z
 DTSTART:20260509T150000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs SV Leithaprodersdorf
@@ -43,7 +43,7 @@ UID:da4a169f86c9a30f51f4b32c3d9dd01b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
 DTEND:20260501T151500Z
 DTSTART:20260501T133000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs St. Georgen/Eisenstadt
@@ -51,7 +51,7 @@ UID:1e2f376de3f52367d13adade71bfb9bf
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
 DTEND:20260419T164500Z
 DTSTART:20260419T150000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs SV BB1 Wolfau
@@ -59,7 +59,7 @@ UID:3b01a09f7154607ca8c32724ea02dacc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
 DTEND:20260329T154500Z
 DTSTART:20260329T140000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs SV Leithaprodersdorf
@@ -67,7 +67,7 @@ UID:c1fb7090afc8d08106cb0d5fc874933f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
 DTEND:20260412T144500Z
 DTSTART:20260412T130000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs SPG SVO-Edelserpentin
@@ -75,7 +75,7 @@ UID:7b71d48d708d466b1a4cc5e9483fe5c5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
 DTEND:20260426T141500Z
 DTSTART:20260426T123000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs SPG DER CLUB/Kirchschlag

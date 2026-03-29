@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n\n
 DTEND:20260530T161500Z
 DTSTART:20260530T143000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Winden
@@ -11,7 +11,7 @@ UID:ba4e2ba1af1cf99ceeb4106308cdbcf2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n\n
 DTEND:20260404T144500Z
 DTSTART:20260404T130000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Illmitz
@@ -19,7 +19,7 @@ UID:f9d2f864260d21567d723990532e306b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Andau\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Andau\n🏆 Liga: U23\n\n
 DTEND:20260412T134500Z
 DTSTART:20260412T120000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Andau
@@ -27,7 +27,7 @@ UID:535a8c809958dc1b6932b35878ea3bc4
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Pama\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Pama\n🏆 Liga: U23\n\n
 DTEND:20260515T174500Z
 DTSTART:20260515T160000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Pama
@@ -35,7 +35,7 @@ UID:bda6bfbd92b620cf3f7260d677b9a621
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
 DTEND:20260321T144500Z
 DTSTART:20260321T130000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Tadten
@@ -43,7 +43,7 @@ UID:a6a2188f293b07cf11216814d86e81fa
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
 DTEND:20260328T141500Z
 DTSTART:20260328T123000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Gattendorf
@@ -51,7 +51,7 @@ UID:bcb0f729bbf7fd8f515c3d1bc286cc7f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n\n
 DTEND:20260502T154500Z
 DTSTART:20260502T140000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Hornstein
@@ -59,7 +59,7 @@ UID:ada67943bc7d58a9b59d6c6053fc9860
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Gols\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: U23\n\n
 DTEND:20260509T151500Z
 DTSTART:20260509T133000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Gols
@@ -67,7 +67,7 @@ UID:13e8c7b71674c17a3487ffe4ace67cb0
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n\n
 DTEND:20260524T161500Z
 DTSTART:20260524T143000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Wimpassing
@@ -75,7 +75,7 @@ UID:10d32ec64182cc73a02e476a6839c254
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Kittsee\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: U23\n\n
 DTEND:20260606T154500Z
 DTSTART:20260606T140000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Kittsee
@@ -83,7 +83,7 @@ UID:1931804e861a3cc23b44658f8f0986e6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
 DTEND:20260315T141500Z
 DTSTART:20260315T123000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Rust
@@ -91,7 +91,7 @@ UID:564b6dc2753f49a92620c7ca8c6f1eae
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n\n
 DTEND:20260424T174500Z
 DTSTART:20260424T160000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs Deutsch-Jahrndorf
@@ -99,7 +99,7 @@ UID:ee107e61bdb181eb5e1786395a06e543
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n\n
 DTEND:20260418T151500Z
 DTSTART:20260418T133000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs Steinbrunn

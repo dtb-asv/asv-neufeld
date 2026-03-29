@@ -58,7 +58,11 @@ def create_event(row):
     end = tz.localize(end_naiv, is_dst=None)
 
     ort = str(row.get("Ort", ""))
-    beschreibung = str(row.get("BESCHREIBUNG", ""))
+    beschreibung = row.get("BESCHREIBUNG", "")
+    if pd.isna(beschreibung):
+      beschreibung = ""
+    else:
+      beschreibung = str(beschreibung)
 
     beschreibung_full = f"""
 {beschreibung}

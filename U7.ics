@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260411T103000Z
 DTSTART:20260411T073000Z
 SUMMARY:🏠 Heim: ASV Neufeld vs viele Gegner
@@ -11,7 +11,7 @@ UID:8da834af9a7199b2d4d42c20d51a2ba4
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260419T140000Z
 DTSTART:20260419T110000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
@@ -19,7 +19,7 @@ UID:419c4a7e6382295e93727c0cc23db23f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260614T113000Z
 DTSTART:20260614T083000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
@@ -27,7 +27,7 @@ UID:44380a58f3de7c06a6c4b8fe40a879dd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260509T010000Z
 DTSTART:20260508T220000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
@@ -35,7 +35,7 @@ UID:3d180530e3dba964aa942153b29ed2f6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nnan\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
 DTEND:20260501T010000Z
 DTSTART:20260430T220000Z
 SUMMARY:🚗 Auswärts: ASV Neufeld vs viele Gegner
