@@ -21,7 +21,7 @@ UID:8b7cebe22e76a83878bf307c1f009ebf
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:0:2 für Gattendorf\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
 DTEND:20260328T141500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T123000Z
@@ -30,7 +30,7 @@ UID:fb89d228d27a1634fe9661915f9d20e2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:2:1 für Neufeld\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
 DTEND:20260321T144500Z
 LOCATION:NEUFELD
 DTSTART:20260321T130000Z
@@ -57,7 +57,7 @@ UID:8f0d75669a10eda8209631bd240f3de5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:3:0 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
 DTEND:20260315T141500Z
 LOCATION:RUST
 DTSTART:20260315T123000Z

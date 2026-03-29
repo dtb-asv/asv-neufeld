@@ -48,7 +48,7 @@ UID:f7888e9014f3166af3d9e6080db58986
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:2:1 für Neufeld\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
 DTEND:20260321T144500Z
 LOCATION:NEUFELD
 DTSTART:20260321T130000Z
@@ -102,7 +102,7 @@ UID:bdb236da32b652542639945d65a2395d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:1:1\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
 DTEND:20260321T164500Z
 LOCATION:NEUFELD
 DTSTART:20260321T150000Z
@@ -165,7 +165,7 @@ UID:0eb46edb3c0a91e0fd3a9f2cb4d5ed5d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:0:2 für Gattendorf\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
 DTEND:20260328T141500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T123000Z
@@ -210,7 +210,7 @@ UID:95c77fa0211fa5a8722b108930fcbdcd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:3:0 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
 DTEND:20260315T141500Z
 LOCATION:RUST
 DTSTART:20260315T123000Z
@@ -219,7 +219,7 @@ UID:dbc2641b16cd871b4d6a70958d11f854
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:   \nEndstand:4:0 für Wimpassing/Neufeld\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
 DTEND:20260321T141500Z
 LOCATION:WIMPASSING
 DTSTART:20260321T123000Z
@@ -273,7 +273,7 @@ UID:a18099d3d314b7f2ad986e97f03bde33
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:5:1 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
 DTEND:20260315T161500Z
 LOCATION:RUST
 DTSTART:20260315T143000Z
@@ -471,7 +471,7 @@ UID:11b3ffafe83d998ed827f3a4b088014b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:3:3\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
 DTEND:20260328T161500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T143000Z
@@ -696,6 +696,15 @@ UID:cc64de8dc121a530d26ae21b4dfa73ab
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DTEND:20260415T171000Z
+LOCATION:STEINBRUNN
+DTSTART:20260415T160000Z
+SUMMARY:🚗 Auswärts: U11 Steinbrunn vs ASV Neufeld
+UID:2faec2fdbe21ff5ec2bebc4545e71a47
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
 DTEND:20260509T103500Z
 LOCATION:KITTSEE
@@ -738,15 +747,6 @@ LOCATION:NEUFELD
 DTSTART:20260607T090000Z
 SUMMARY:🏠 Heim: U13 ASV Neufeld vs SPG Leitha/Stotzing
 UID:861f669cf6741eed86c40169ef8b5f16
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
-DTEND:20260328T101000Z
-LOCATION:STEINBRUNN
-DTSTART:20260328T090000Z
-SUMMARY:🚗 Auswärts: U11 Steinbrunn vs ASV Neufeld
-UID:ac033d166d1176edb41c3ccb4cbd0367
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

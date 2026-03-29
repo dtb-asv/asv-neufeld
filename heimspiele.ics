@@ -48,7 +48,7 @@ UID:f7888e9014f3166af3d9e6080db58986
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
+DESCRIPTION:   \nEndstand:2:1 für Neufeld\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
 DTEND:20260321T144500Z
 LOCATION:NEUFELD
 DTSTART:20260321T130000Z
@@ -111,7 +111,7 @@ UID:bdb236da32b652542639945d65a2395d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:1:1\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
 DTEND:20260321T164500Z
 LOCATION:NEUFELD
 DTSTART:20260321T150000Z
@@ -318,7 +318,7 @@ UID:5a68be56eb0f62e43f3dc3a3ceca63f3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:   \nEndstand:4:0 für Wimpassing/Neufeld\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
 DTEND:20260321T141500Z
 LOCATION:WIMPASSING
 DTSTART:20260321T123000Z

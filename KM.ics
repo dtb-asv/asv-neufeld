@@ -39,7 +39,7 @@ UID:2b3ddaae1984cb955b306894a789f42e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:5:1 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
 DTEND:20260315T161500Z
 LOCATION:RUST
 DTSTART:20260315T143000Z
@@ -75,7 +75,7 @@ UID:195cea7203567aefc9588458334d0283
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:1:1\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
 DTEND:20260321T164500Z
 LOCATION:NEUFELD
 DTSTART:20260321T150000Z
@@ -111,7 +111,7 @@ UID:a5953ee484c4cc0a9994c34f3ed9183e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
+DESCRIPTION:   \nEndstand:3:3\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
 DTEND:20260328T161500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T143000Z
