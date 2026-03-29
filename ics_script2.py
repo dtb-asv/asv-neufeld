@@ -60,7 +60,7 @@ def create_event(row):
 
 ⚽ Gegner: {gegner}
 🏆 Liga: {liga}
-📍 Treffpunkt: {treffpunkt}
+
 """
 
     uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}".encode()).hexdigest()

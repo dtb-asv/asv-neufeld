@@ -1,4 +1,68 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DTEND:20260531T100000Z
+DTSTART:20260531T083000Z
+SUMMARY:🏠 Heim: ASV Neufeld vs SC Neusiedl am See 1919
+UID:e060e3920603088a382f2c70244c1dce
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DTEND:20260515T170000Z
+DTSTART:20260515T153000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs SC/ESV Parndorf 1919
+UID:8b602aef7056399c0bb7553f5ad8bb8d
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DTEND:20260425T180000Z
+DTSTART:20260425T163000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs SC Neusiedl am See 1919
+UID:c387f564a5a753abc0abd49e849bca83
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DTEND:20260503T100000Z
+DTSTART:20260503T083000Z
+SUMMARY:🏠 Heim: ASV Neufeld vs SPG Rosalia/Marz
+UID:62a5e4d45c7809ab5a9cbd2017388ebe
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
+DTEND:20260523T183000Z
+DTSTART:20260523T170000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs FC Großhöflein
+UID:ebf4c61b35a8c856ee7e597a6d550b33
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DTEND:20260412T123000Z
+DTSTART:20260412T110000Z
+SUMMARY:🏠 Heim: ASV Neufeld vs SC/ESV Parndorf 1919
+UID:ce852f100489b1322f82947162f2b2e9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DTEND:20260606T133000Z
+DTSTART:20260606T120000Z
+SUMMARY:🚗 Auswärts: ASV Neufeld vs SPG Rosalia/Marz
+UID:2a77338cfbc3a639cccdcd3e8b626866
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nnan\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
+DTEND:20260416T180000Z
+DTSTART:20260416T163000Z
+SUMMARY:🏠 Heim: ASV Neufeld vs FC Großhöflein
+UID:915ba496ec9a81bb03d12686ce1de2d4
+END:VEVENT
 END:VCALENDAR
