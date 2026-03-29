@@ -12,7 +12,7 @@ sheet = "ICS2"
 tz = pytz.timezone("Europe/Vienna")
 
 # -----------------------------
-# Gegner automatisch erkennen
+# Gegner erkennen
 # -----------------------------
 def get_gegner(row):
     if pd.notna(row.get("GEGNER")):
@@ -35,46 +35,35 @@ def create_event(row):
     liga = str(row.get("LIGA", ""))
     gegner = get_gegner(row)
 
-    # Emoji
+    # Emoji + Titel
     if typ == "heim":
         prefix = "🏠 Heim"
     elif typ == "auswärts":
         prefix = "🚗 Auswärts"
     else:
         prefix = "📅 Spiel"
-    if typ == "heim":
-       titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
-    elif typ == "auswärts":
-       titel = f"{prefix}: {liga} {gegner} vs ASV Neufeld"
-       
-    # Status
-    status = str(row.get("STATUS", "Aktiv")).lower()
 
-    if status == "abgesagt":
-      titel = f"❌ ABGESAGT!!!: {titel}"    
+    titel = f"{prefix}: ASV Neufeld vs {gegner}"
 
-    # Zeiten
-    start_naiv = pd.to_datetime(f"{row['DATUM']} {row['STARTZEIT']}")
-    end_naiv = pd.to_datetime(f"{row['DATUM']} {row['ENDZEIT']}")
+    # Zeiten (DST sicher)
+    start_naiv = pd.to_datetime(f"{row['DATUM']} {row['Startzeit']}")
+    end_naiv = pd.to_datetime(f"{row['DATUM']} {row['Endzeit']}")
 
     start = tz.localize(start_naiv, is_dst=None)
     end = tz.localize(end_naiv, is_dst=None)
 
-    ort = str(row.get("ORT", ""))
-    
-    beschreibung = str(row.get("Beschreibung", "") or "")
-    if beschreibung.lower() == "nan":
-       beschreibung = ""
-    beschreibung = str(row.get("BESCHREIBUNG", ""))
-    
+    ort = str(row.get("Ort", ""))
+    beschreibung = str(row.get("Beschreibung", ""))
+
     beschreibung_full = f"""
 {beschreibung}
 
 ⚽ Gegner: {gegner}
 🏆 Liga: {liga}
+📍 Treffpunkt: {treffpunkt}
 """
 
-    uid = hashlib.md5(f"{titel}{start}{end}_{ort}".encode()).hexdigest()
+    uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}".encode()).hexdigest()
 
     e = Event()
     e.name = titel
@@ -84,6 +73,9 @@ def create_event(row):
     e.description = beschreibung_full
     e.uid = uid
 
+    # ⏰ Erinnerung 2 Stunden vorher
+    e.alarms.append({"trigger": -7200})
+
     return e
 
 # -----------------------------
@@ -92,45 +84,57 @@ def create_event(row):
 df = pd.read_excel(datei, sheet_name=sheet)
 
 # -----------------------------
-# 1️⃣ Gesamt-Kalender
+# Kalender erstellen
 # -----------------------------
 cal_all = Calendar()
+cal_home = Calendar()
+cal_away = Calendar()
 
+ligen_cals = {}
+
+for liga in df["LIGA"].dropna().unique():
+    ligen_cals[liga] = Calendar()
+
+# -----------------------------
+# Events verteilen
+# -----------------------------
 for _, row in df.iterrows():
     try:
-        cal_all.events.add(create_event(row))
+        event = create_event(row)
+        cal_all.events.add(event)
+
+        typ = str(row.get("TYP", "")).lower()
+        liga = row.get("LIGA")
+
+        if typ == "heim":
+            cal_home.events.add(event)
+        elif typ == "auswärts":
+            cal_away.events.add(event)
+
+        if pd.notna(liga):
+            ligen_cals[liga].events.add(event)
+
     except Exception as ex:
-        print("Fehler:", ex)
-
-with open("alle_spiele.ics", "w", encoding="utf-8") as f:
-    f.writelines(cal_all)
-
-print("✅ Gesamt-Kalender erstellt")
+        print("❌ Fehler:", ex)
 
 # -----------------------------
-# 2️⃣ Kalender pro Liga
+# Dateien speichern
 # -----------------------------
-ligen = df["LIGA"].dropna().unique()
-
-for liga in ligen:
-    cal = Calendar()
-    liga_df = df[df["LIGA"] == liga]
-
-    for _, row in liga_df.iterrows():
-        try:
-            cal.events.add(create_event(row))
-        except Exception as ex:
-            print("Fehler:", ex)
-
-    filename = f"{liga}.ics".replace(" ", "_")
-
+def save_cal(name, cal):
+    filename = f"{name}.ics".replace(" ", "_")
     with open(filename, "w", encoding="utf-8") as f:
         f.writelines(cal)
-
     print(f"✅ {filename} erstellt")
 
+save_cal("alle_spiele", cal_all)
+save_cal("heimspiele", cal_home)
+save_cal("auswaertsspiele", cal_away)
+
+for liga, cal in ligen_cals.items():
+    save_cal(liga, cal)
+
 # -----------------------------
-# Git Upload (smart)
+# Git Upload
 # -----------------------------
 try:
     result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
