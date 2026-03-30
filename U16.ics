@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n
 DTEND:20260419T164500Z
 LOCATION:WOLFAU
 DTSTART:20260419T150000Z
@@ -12,7 +12,7 @@ UID:ba7a31f8ca89402bcf29e89889a9ebd1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n
 DTEND:20260509T164500Z
 LOCATION:WIMPASSING
 DTSTART:20260509T150000Z
@@ -21,7 +21,7 @@ UID:2b2af672edf06aee62b349586c62df40
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n
 DTEND:20260517T171500Z
 LOCATION:BERNSTEIN
 DTSTART:20260517T153000Z
@@ -30,7 +30,7 @@ UID:4f3ec94b55d997e227b09f626fde38a3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
 DTEND:20260607T164500Z
 LOCATION:NEUFELD
 DTSTART:20260607T150000Z
@@ -39,7 +39,7 @@ UID:e32f34e2a0b4b590ad1d4e1529f7434a
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n
 DTEND:20260412T144500Z
 LOCATION:WIMPASSING
 DTSTART:20260412T130000Z
@@ -48,7 +48,7 @@ UID:fa56af6f3f248eb61e6409959b392a82
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n
 DTEND:20260426T141500Z
 LOCATION:NEUFELD
 DTSTART:20260426T123000Z
@@ -57,7 +57,7 @@ UID:95c77fa0211fa5a8722b108930fcbdcd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n
 DTEND:20260531T121500Z
 LOCATION:KIRCHSCHLAG
 DTSTART:20260531T103000Z
@@ -66,7 +66,7 @@ UID:f4e9c6a4b146d99cd82c2a5ea784f8bc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:4:0 für Wimpassing/Neufeld\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:\nEndstand:4:0 für Wimpassing/Neufeld\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n
 DTEND:20260321T141500Z
 LOCATION:WIMPASSING
 DTSTART:20260321T123000Z
@@ -75,7 +75,7 @@ UID:86aa3f368b4e30086867fa3827b27d43
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:2:2\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DESCRIPTION:\nEndstand:2:2\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n
 DTEND:20260325T191500Z
 LOCATION:SV LEITHAPRODERSDORF
 DTSTART:20260325T173000Z
@@ -84,7 +84,7 @@ UID:07b3903cfc5b7be8b877285bec5603da
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
 DTEND:20260501T151500Z
 LOCATION:ST. GEORGEN
 DTSTART:20260501T133000Z

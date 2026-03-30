@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260516T143000Z
 LOCATION:NEUFELD
 DTSTART:20260516T130000Z
@@ -12,7 +12,7 @@ UID:fb6ab2573d321e33e11500f06a76568a
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n
 DTEND:20260419T173000Z
 LOCATION:KITTSEE
 DTSTART:20260419T160000Z
@@ -21,7 +21,7 @@ UID:11b3ffafe83d998ed827f3a4b088014b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n
 DTEND:20260521T183000Z
 LOCATION:NEUFELD
 DTSTART:20260521T170000Z
@@ -30,7 +30,7 @@ UID:a18099d3d314b7f2ad986e97f03bde33
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
 DTEND:20260529T183000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260529T170000Z
@@ -39,7 +39,7 @@ UID:c29d6397e3bb429800d7665c63c27b34
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260410T180000Z
 LOCATION:PAMA
 DTSTART:20260410T163000Z
@@ -48,7 +48,7 @@ UID:fff3bc3e9bd1230654dfad3b0c677ec6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
 DTEND:20260425T103000Z
 LOCATION:NEUFELD
 DTSTART:20260425T090000Z
@@ -57,7 +57,7 @@ UID:ff09786bede12f0027557fa2b82c59be
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n\n❗ Dieses Spiel wurde abgesagt\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n❗ Dieses Spiel wurde abgesagt\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
 DTEND:20260328T163000Z
 LOCATION:NEUFELD
 DTSTART:20260328T150000Z
@@ -66,7 +66,7 @@ UID:c2b4d9b98d73e2e7486c1f2db97c0147
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
 DTEND:20260509T173000Z
 LOCATION:WULKAPRODERSDORF
 DTSTART:20260509T160000Z

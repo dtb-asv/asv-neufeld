@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n
 DTEND:20260419T164500Z
 LOCATION:WOLFAU
 DTSTART:20260419T150000Z
@@ -12,7 +12,7 @@ UID:ba7a31f8ca89402bcf29e89889a9ebd1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260621T113000Z
 LOCATION:ST. GEORGEN
 DTSTART:20260621T083000Z
@@ -21,7 +21,7 @@ UID:e8528c13ad5910f995d2ba58e5628f74
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n
 DTEND:20260425T103000Z
 LOCATION:SIEGENDORF
 DTSTART:20260425T073000Z
@@ -30,7 +30,7 @@ UID:24694200863496c44753abd78588a747
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n
 DTEND:20260419T173000Z
 LOCATION:KITTSEE
 DTSTART:20260419T160000Z
@@ -39,7 +39,7 @@ UID:11b3ffafe83d998ed827f3a4b088014b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n
 DTEND:20260517T171500Z
 LOCATION:BERNSTEIN
 DTSTART:20260517T153000Z
@@ -48,7 +48,7 @@ UID:4f3ec94b55d997e227b09f626fde38a3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n
 DTEND:20260531T121500Z
 LOCATION:KIRCHSCHLAG
 DTSTART:20260531T103000Z
@@ -57,7 +57,7 @@ UID:f4e9c6a4b146d99cd82c2a5ea784f8bc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n
 DTEND:20260509T171500Z
 LOCATION:GOLS
 DTSTART:20260509T153000Z
@@ -66,7 +66,7 @@ UID:97501905ba8566299ea6fe12c9ad9523
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n
 DTEND:20260606T133000Z
 LOCATION:WIESEN
 DTSTART:20260606T120000Z
@@ -75,7 +75,7 @@ UID:d0fa9d0692d07a82f7a6d41121322855
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
 DTEND:20260529T161000Z
 LOCATION:STOTZING
 DTSTART:20260529T150000Z
@@ -84,7 +84,7 @@ UID:72cf66ffde6760ec9846f36ac7f8e0ea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20260524T161500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T143000Z
@@ -93,7 +93,7 @@ UID:fba89eff47356837812896f8c21ef4ae
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n
 DTEND:20260509T103000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260509T073000Z
@@ -102,7 +102,7 @@ UID:f0f38b6c79a568a0cd23ac92df460d9f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:3:3\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
+DESCRIPTION:\nEndstand:3:3\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n
 DTEND:20260328T161500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T143000Z
@@ -111,7 +111,7 @@ UID:5e0b5c83c152e34c31815085fe4bd29f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n
 DTEND:20260424T194500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T180000Z
@@ -120,7 +120,7 @@ UID:108835fc71951d427f2370fb25d0d99f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Andau\n🏆 Liga: U23\n
 DTEND:20260412T134500Z
 LOCATION:ANDAU
 DTSTART:20260412T120000Z
@@ -129,7 +129,7 @@ UID:faedee84f28b5a596d9f374db5836da8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
 DTEND:20260509T173000Z
 LOCATION:WULKAPRODERSDORF
 DTSTART:20260509T160000Z
@@ -138,7 +138,7 @@ UID:a80cbd49d7dab0a23e451317e699b73b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260425T153000Z
 LOCATION:SIEGENDORF
 DTSTART:20260425T123000Z
@@ -147,7 +147,7 @@ UID:18181ccba207df45bf7f868b331c7274
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:5:1 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DESCRIPTION:\nEndstand:5:1 für Rust\n\n⚽ Gegner: Rust\n🏆 Liga: KM\n
 DTEND:20260315T161500Z
 LOCATION:RUST
 DTSTART:20260315T143000Z
@@ -156,7 +156,7 @@ UID:ff3b7f27c0890fbc0110dae6d6bd4342
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SK Pama\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260410T180000Z
 LOCATION:PAMA
 DTSTART:20260410T163000Z
@@ -165,7 +165,7 @@ UID:fff3bc3e9bd1230654dfad3b0c677ec6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n
 DTEND:20260424T174500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T160000Z
@@ -174,7 +174,7 @@ UID:8f0d75669a10eda8209631bd240f3de5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
 DTEND:20260523T183000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260523T170000Z
@@ -183,7 +183,7 @@ UID:de85443e095c8633132556241f4eb3be
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
 DTEND:20260425T180000Z
 LOCATION:NEUSIEDL
 DTSTART:20260425T163000Z
@@ -192,7 +192,7 @@ UID:7aea42120e02f3d6f5d665d28a405898
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: U23\n
 DTEND:20260509T151500Z
 LOCATION:GOLS
 DTSTART:20260509T133000Z
@@ -201,7 +201,7 @@ UID:fdc8b49d53f979bbef14193860a9fed7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n
 DTEND:20260607T113000Z
 LOCATION:ST. GEORGEN
 DTSTART:20260607T083000Z
@@ -210,7 +210,7 @@ UID:7a73fbdf4d683adedd71f444fbe765c8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n
 DTEND:20260419T140000Z
 LOCATION:EISENSTADT
 DTSTART:20260419T110000Z
@@ -219,7 +219,7 @@ UID:5f42078a677d5c358181c662209cbe4d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260509T123000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260509T093000Z
@@ -228,7 +228,7 @@ UID:9d24fd5d61855dc361e252ec6591dc2e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n
 DTEND:20260531T173500Z
 LOCATION:BREITENBRUNN
 DTSTART:20260531T160000Z
@@ -237,7 +237,7 @@ UID:9b718d6cf3865aa6111cab0d0170aa9e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n
 DTEND:20260501T010000Z
 LOCATION:WULKAPRODERSDORF
 DTSTART:20260430T220000Z
@@ -246,7 +246,7 @@ UID:031858132bfa815fa9361d56174f0c8e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n
 DTEND:20260530T181500Z
 LOCATION:WINDEN
 DTSTART:20260530T163000Z
@@ -255,7 +255,7 @@ UID:195cea7203567aefc9588458334d0283
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
 DTEND:20260415T171000Z
 LOCATION:STEINBRUNN
 DTSTART:20260415T160000Z
@@ -264,7 +264,7 @@ UID:2faec2fdbe21ff5ec2bebc4545e71a47
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n
 DTEND:20260614T113000Z
 LOCATION:ST. GEORGEN
 DTSTART:20260614T083000Z
@@ -273,7 +273,7 @@ UID:f6b0719dcbe65b8f26820de0fd760f81
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n
 DTEND:20260509T103500Z
 LOCATION:KITTSEE
 DTSTART:20260509T090000Z
@@ -282,7 +282,7 @@ UID:083b12e42a20cf318160d68a6a82fa03
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n
 DTEND:20260515T170000Z
 LOCATION:PARNDORF
 DTSTART:20260515T153000Z
@@ -291,7 +291,7 @@ UID:e5a4c6379b1ebf18bd4d2e6bcf236318
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260419T131000Z
 LOCATION:KLINGENBACH
 DTSTART:20260419T120000Z
@@ -300,7 +300,7 @@ UID:c4610a32c3be1b3c0292f9c461dd71b2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260418T143500Z
 LOCATION:RUST
 DTSTART:20260418T130000Z
@@ -309,7 +309,7 @@ UID:63809f1aad808b8a7c562b60390b520c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
 DTEND:20260524T181500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T163000Z
@@ -318,7 +318,7 @@ UID:a5953ee484c4cc0a9994c34f3ed9183e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n
 DTEND:20260502T113000Z
 LOCATION:PURBACH
 DTSTART:20260502T083000Z
@@ -327,7 +327,7 @@ UID:132d632b85483259fef422227f1243c1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Andau\n🏆 Liga: KM\n
 DTEND:20260412T154500Z
 LOCATION:ANDAU
 DTSTART:20260412T140000Z
@@ -336,7 +336,7 @@ UID:d7d9a7bed71cfabdf72ea5ed4a90052d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
 DTEND:20260529T183000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260529T170000Z
@@ -345,7 +345,7 @@ UID:c29d6397e3bb429800d7665c63c27b34
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n
 DTEND:20260503T143500Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260503T130000Z
@@ -354,7 +354,7 @@ UID:0eb46edb3c0a91e0fd3a9f2cb4d5ed5d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:0:2 für Gattendorf\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
+DESCRIPTION:\nEndstand:0:2 für Gattendorf\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n
 DTEND:20260328T141500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T123000Z
@@ -363,7 +363,7 @@ UID:fb89d228d27a1634fe9661915f9d20e2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:3:0 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
+DESCRIPTION:\nEndstand:3:0 für Rust\n\n⚽ Gegner: Rust\n🏆 Liga: U23\n
 DTEND:20260315T141500Z
 LOCATION:RUST
 DTSTART:20260315T123000Z
@@ -372,7 +372,7 @@ UID:dbc2641b16cd871b4d6a70958d11f854
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260418T103000Z
 LOCATION:STEINBRUNN
 DTSTART:20260418T073000Z
@@ -381,7 +381,7 @@ UID:c64dfc516fb2213234e3d0ceaa30c811
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:2:2\n   \n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n\n
+DESCRIPTION:\nEndstand:2:2\n\n⚽ Gegner: SV Leithaprodersdorf\n🏆 Liga: U16\n
 DTEND:20260325T191500Z
 LOCATION:SV LEITHAPRODERSDORF
 DTSTART:20260325T173000Z
@@ -390,7 +390,7 @@ UID:07b3903cfc5b7be8b877285bec5603da
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n
 DTEND:20260530T161500Z
 LOCATION:WINDEN
 DTSTART:20260530T143000Z
@@ -399,7 +399,7 @@ UID:eb929143100b78624342342d759bf91c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
 DTEND:20260501T151500Z
 LOCATION:ST. GEORGEN
 DTSTART:20260501T133000Z
@@ -408,7 +408,7 @@ UID:372cc3f1949df714d4fb18161cab23d3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260517T131000Z
 LOCATION:ST. MARGARETHEN
 DTSTART:20260517T120000Z
@@ -417,7 +417,7 @@ UID:9e2e89a6da4312e7b3a55b1d77c121ea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n
 DTEND:20260509T010000Z
 LOCATION:WIMPASSING
 DTSTART:20260508T220000Z

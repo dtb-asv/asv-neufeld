@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
 DTEND:20260509T091000Z
 LOCATION:NEUFELD
 DTSTART:20260509T080000Z
@@ -12,7 +12,7 @@ UID:08bdeba90ee812c56680a72635c3ce15
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
 DTEND:20260423T161000Z
 LOCATION:NEUFELD
 DTSTART:20260423T150000Z
@@ -21,7 +21,7 @@ UID:d306355cb0d238f6f0c8232f0823d148
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
 DTEND:20260415T171000Z
 LOCATION:STEINBRUNN
 DTSTART:20260415T160000Z
@@ -30,7 +30,7 @@ UID:2faec2fdbe21ff5ec2bebc4545e71a47
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Stotzing\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
 DTEND:20260529T161000Z
 LOCATION:STOTZING
 DTSTART:20260529T150000Z
@@ -39,7 +39,7 @@ UID:72cf66ffde6760ec9846f36ac7f8e0ea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260411T141000Z
 LOCATION:NEUFELD
 DTSTART:20260411T130000Z
@@ -48,7 +48,7 @@ UID:bcc6e1fe31a6b8ac3c44ed5fef875812
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260419T131000Z
 LOCATION:KLINGENBACH
 DTSTART:20260419T120000Z
@@ -57,7 +57,7 @@ UID:c4610a32c3be1b3c0292f9c461dd71b2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260522T161000Z
 LOCATION:NEUFELD
 DTSTART:20260522T150000Z
@@ -66,7 +66,7 @@ UID:f0068ab4cdb4c7f6d08e9aa163880c79
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260517T131000Z
 LOCATION:ST. MARGARETHEN
 DTSTART:20260517T120000Z

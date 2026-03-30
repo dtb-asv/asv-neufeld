@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Andau\n🏆 Liga: U23\n
 DTEND:20260412T134500Z
 LOCATION:ANDAU
 DTSTART:20260412T120000Z
@@ -12,7 +12,7 @@ UID:faedee84f28b5a596d9f374db5836da8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n
 DTEND:20260404T144500Z
 LOCATION:NEUFELD
 DTSTART:20260404T130000Z
@@ -21,7 +21,7 @@ UID:8b7cebe22e76a83878bf307c1f009ebf
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:0:2 für Gattendorf\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n\n
+DESCRIPTION:\nEndstand:0:2 für Gattendorf\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n
 DTEND:20260328T141500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T123000Z
@@ -30,7 +30,7 @@ UID:fb89d228d27a1634fe9661915f9d20e2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:2:1 für Neufeld\n   \n⚽ Gegner: Tadten\n🏆 Liga: U23\n\n
+DESCRIPTION:\nEndstand:2:1 für Neufeld\n\n⚽ Gegner: Tadten\n🏆 Liga: U23\n
 DTEND:20260321T144500Z
 LOCATION:NEUFELD
 DTSTART:20260321T130000Z
@@ -39,7 +39,7 @@ UID:9414ff42c3f5077a46e0f017ac8f61cc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Pama\n🏆 Liga: U23\n
 DTEND:20260515T174500Z
 LOCATION:NEUFELD
 DTSTART:20260515T160000Z
@@ -48,7 +48,7 @@ UID:90c1fb9ecb32ce0f62efbf3e731ce6a5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n
 DTEND:20260424T174500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T160000Z
@@ -57,7 +57,7 @@ UID:8f0d75669a10eda8209631bd240f3de5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:3:0 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: U23\n\n
+DESCRIPTION:\nEndstand:3:0 für Rust\n\n⚽ Gegner: Rust\n🏆 Liga: U23\n
 DTEND:20260315T141500Z
 LOCATION:RUST
 DTSTART:20260315T123000Z
@@ -66,7 +66,7 @@ UID:dbc2641b16cd871b4d6a70958d11f854
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n
 DTEND:20260418T151500Z
 LOCATION:NEUFELD
 DTSTART:20260418T133000Z
@@ -75,7 +75,7 @@ UID:f463c9aa1a5ae255c4b222baa39c4c19
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20260524T161500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T143000Z
@@ -84,7 +84,7 @@ UID:fba89eff47356837812896f8c21ef4ae
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: U23\n
 DTEND:20260509T151500Z
 LOCATION:GOLS
 DTSTART:20260509T133000Z
@@ -93,7 +93,7 @@ UID:fdc8b49d53f979bbef14193860a9fed7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
 DTEND:20260502T154500Z
 LOCATION:NEUFELD
 DTSTART:20260502T140000Z
@@ -102,7 +102,7 @@ UID:e8d65ba1caf131e1e16aee04cddb4575
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n
 DTEND:20260530T161500Z
 LOCATION:WINDEN
 DTSTART:20260530T143000Z
@@ -111,7 +111,7 @@ UID:eb929143100b78624342342d759bf91c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: U23\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: U23\n
 DTEND:20260606T154500Z
 LOCATION:NEUFELD
 DTSTART:20260606T140000Z

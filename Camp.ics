@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n
 DTEND:20260330T140000Z
 LOCATION:NEUFELD
 DTSTART:20260330T070000Z
@@ -12,7 +12,7 @@ UID:86bd19c8297b72ae0e05012f51bed7d3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n
 DTEND:20260401T140000Z
 LOCATION:NEUFELD
 DTSTART:20260401T070000Z
@@ -21,7 +21,7 @@ UID:5a68be56eb0f62e43f3dc3a3ceca63f3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Teco 7 Camp\n🏆 Liga: Camp\n
 DTEND:20260331T140000Z
 LOCATION:NEUFELD
 DTSTART:20260331T070000Z

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n
 DTEND:20260424T194500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T180000Z
@@ -12,7 +12,7 @@ UID:108835fc71951d427f2370fb25d0d99f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Andau\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Andau\n🏆 Liga: KM\n
 DTEND:20260412T154500Z
 LOCATION:ANDAU
 DTSTART:20260412T140000Z
@@ -21,7 +21,7 @@ UID:d7d9a7bed71cfabdf72ea5ed4a90052d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Hornstein\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n
 DTEND:20260502T174500Z
 LOCATION:NEUFELD
 DTSTART:20260502T160000Z
@@ -30,7 +30,7 @@ UID:046f8eef8c589a1a884d33d2880e33cd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n
 DTEND:20260418T171500Z
 LOCATION:NEUFELD
 DTSTART:20260418T153000Z
@@ -39,7 +39,7 @@ UID:2b3ddaae1984cb955b306894a789f42e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:5:1 für Rust\n   \n⚽ Gegner: Rust\n🏆 Liga: KM\n\n
+DESCRIPTION:\nEndstand:5:1 für Rust\n\n⚽ Gegner: Rust\n🏆 Liga: KM\n
 DTEND:20260315T161500Z
 LOCATION:RUST
 DTSTART:20260315T143000Z
@@ -48,7 +48,7 @@ UID:ff3b7f27c0890fbc0110dae6d6bd4342
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Kittsee\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
 DTEND:20260606T174500Z
 LOCATION:NEUFELD
 DTSTART:20260606T160000Z
@@ -57,7 +57,7 @@ UID:f7888e9014f3166af3d9e6080db58986
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n
 DTEND:20260404T164500Z
 LOCATION:NEUFELD
 DTSTART:20260404T150000Z
@@ -66,7 +66,7 @@ UID:cc64de8dc121a530d26ae21b4dfa73ab
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Winden\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n
 DTEND:20260530T181500Z
 LOCATION:WINDEN
 DTSTART:20260530T163000Z
@@ -75,7 +75,7 @@ UID:195cea7203567aefc9588458334d0283
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:1:1\n   \n⚽ Gegner: Tadten\n🏆 Liga: KM\n\n
+DESCRIPTION:\nEndstand:1:1\n\n⚽ Gegner: Tadten\n🏆 Liga: KM\n
 DTEND:20260321T164500Z
 LOCATION:NEUFELD
 DTSTART:20260321T150000Z
@@ -84,7 +84,7 @@ UID:04808ca6c272cd6c8ff3cee151bf86e1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Gols\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n
 DTEND:20260509T171500Z
 LOCATION:GOLS
 DTSTART:20260509T153000Z
@@ -93,7 +93,7 @@ UID:97501905ba8566299ea6fe12c9ad9523
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Pama\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Pama\n🏆 Liga: KM\n
 DTEND:20260515T194500Z
 LOCATION:NEUFELD
 DTSTART:20260515T180000Z
@@ -102,7 +102,7 @@ UID:5bb8ab6174d8770b427e892d16d2e597
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
 DTEND:20260524T181500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T163000Z
@@ -111,7 +111,7 @@ UID:a5953ee484c4cc0a9994c34f3ed9183e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \nEndstand:3:3\n   \n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n\n
+DESCRIPTION:\nEndstand:3:3\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n
 DTEND:20260328T161500Z
 LOCATION:GATTENDORF
 DTSTART:20260328T143000Z

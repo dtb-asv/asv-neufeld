@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260509T123000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260509T093000Z
@@ -12,7 +12,7 @@ UID:9d24fd5d61855dc361e252ec6591dc2e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260621T113000Z
 LOCATION:ST. GEORGEN
 DTSTART:20260621T083000Z
@@ -21,7 +21,7 @@ UID:e8528c13ad5910f995d2ba58e5628f74
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260425T153000Z
 LOCATION:SIEGENDORF
 DTSTART:20260425T123000Z
@@ -30,7 +30,7 @@ UID:18181ccba207df45bf7f868b331c7274
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260411T113000Z
 LOCATION:NEUFELD
 DTSTART:20260411T083000Z
@@ -39,7 +39,7 @@ UID:46b4ec2d7239e0add985ab0971ebb709
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:   \n\n   \n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n\n
+DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U9\n
 DTEND:20260418T103000Z
 LOCATION:STEINBRUNN
 DTSTART:20260418T073000Z

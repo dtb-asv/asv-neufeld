@@ -57,6 +57,16 @@ def create_event(row):
     # Status mitnehmen
     status = str(row.get("STATUS", "Aktiv")).lower()
     
+    # Spielart
+    spielart = str(row.get("SPIELART", "")).strip().lower()
+    if spielart == "freundschaft":
+      titel = f"{prefix}: Freundschaftsspiel ASV Neufeld vs {gegner}"
+    elif typ == "heim":
+      titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
+    elif typ == "auswärts":
+      titel = f"{prefix}: {liga} {gegner} vs ASV Neufeld"
+    else:
+      titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
 
     # Zeiten (DST sicher)
     start_naiv = pd.to_datetime(f"{row['DATUM']} {row['STARTZEIT']}")
@@ -72,12 +82,11 @@ def create_event(row):
        titel = f"❌ ABGESAGT: {titel}"
        beschreibung += "\n\n❗ Dieses Spiel wurde abgesagt"
     #Beschreibung
-    beschreibung_full = f"""   
+    beschreibung_full = f"""
 {beschreibung}
-   
+
 ⚽ Gegner: {gegner}
 🏆 Liga: {liga}
-
 """
 
     uid = hashlib.md5(f"{titel}_{start}_{end}_{ort}_{status}".encode()).hexdigest()
