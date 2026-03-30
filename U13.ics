@@ -30,21 +30,21 @@ UID:0eb46edb3c0a91e0fd3a9f2cb4d5ed5d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DTEND:20260412T102000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
+UID:c783334df7c1bc2fdd4ac01eaf74cc74
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n
 DTEND:20260607T103500Z
 LOCATION:NEUFELD
 DTSTART:20260607T090000Z
 SUMMARY:🏠 Heim: U13 ASV Neufeld vs SPG Leitha/Stotzing
 UID:861f669cf6741eed86c40169ef8b5f16
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
-DTEND:20260412T113000Z
-LOCATION:NEUFELD
-DTSTART:20260412T084500Z
-SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
-UID:af5602d05e461a3c3f6dba7cf44aacf5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

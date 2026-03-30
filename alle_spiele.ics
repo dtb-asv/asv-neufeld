@@ -75,15 +75,6 @@ UID:108835fc71951d427f2370fb25d0d99f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
-DTEND:20260412T113000Z
-LOCATION:NEUFELD
-DTSTART:20260412T084500Z
-SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
-UID:af5602d05e461a3c3f6dba7cf44aacf5
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260410T180000Z
 LOCATION:PAMA
@@ -333,6 +324,15 @@ LOCATION:BREITENBRUNN
 DTSTART:20260531T160000Z
 SUMMARY:🚗 Auswärts: U13 SPG Breitenbrunn/Purbach/Windne vs ASV Neufeld
 UID:9b718d6cf3865aa6111cab0d0170aa9e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DTEND:20260412T102000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
+UID:c783334df7c1bc2fdd4ac01eaf74cc74
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

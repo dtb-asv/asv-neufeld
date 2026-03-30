@@ -75,15 +75,6 @@ UID:a18099d3d314b7f2ad986e97f03bde33
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
-DTEND:20260412T113000Z
-LOCATION:NEUFELD
-DTSTART:20260412T084500Z
-SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
-UID:af5602d05e461a3c3f6dba7cf44aacf5
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: Pama\n🏆 Liga: U23\n
 DTEND:20260515T174500Z
 LOCATION:NEUFELD
@@ -144,6 +135,15 @@ LOCATION:NEUFELD
 DTSTART:20260329T090000Z
 SUMMARY:❌ ABGESAGT: 🏠 Heim: U13 ASV Neufeld vs SC Kittsee
 UID:e439de6bd978c42ea23286b45be860a3
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DTEND:20260412T102000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
+UID:c783334df7c1bc2fdd4ac01eaf74cc74
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
