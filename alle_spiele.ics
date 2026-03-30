@@ -525,6 +525,15 @@ UID:91a83afe049dbd88bffbdeb7e713e856
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:   \nFreundschaftsspiel\n   \n⚽ Gegner: Marswiese\n🏆 Liga: U13\n\n
+DTEND:20260412T113000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: U13 ASV Neufeld vs Marswiese
+UID:56e6474ff89ea4a03657093b28086a9b
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:   \n\n   \n⚽ Gegner: Illmitz\n🏆 Liga: U23\n\n
 DTEND:20260404T144500Z
 LOCATION:NEUFELD
