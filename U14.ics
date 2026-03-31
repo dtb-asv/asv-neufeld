@@ -48,21 +48,21 @@ UID:fff3bc3e9bd1230654dfad3b0c677ec6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
+DTEND:20260503T133000Z
+LOCATION:NEUFELD
+DTSTART:20260503T120000Z
+SUMMARY:🏠 Heim: U14 ASV Neufeld vs SV Wulkaprodersdorf
+UID:aedddb0599de5e47f76bd16c404ff484
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
 DTEND:20260425T103000Z
 LOCATION:NEUFELD
 DTSTART:20260425T090000Z
 SUMMARY:🏠 Heim: U14 ASV Neufeld vs SPG Leitha/Stotzing
 UID:ff09786bede12f0027557fa2b82c59be
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n❗ Dieses Spiel wurde abgesagt\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
-DTEND:20260328T163000Z
-LOCATION:NEUFELD
-DTSTART:20260328T150000Z
-SUMMARY:❌ ABGESAGT: 🏠 Heim: U14 ASV Neufeld vs SV Wulkaprodersdorf
-UID:c2b4d9b98d73e2e7486c1f2db97c0147
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
