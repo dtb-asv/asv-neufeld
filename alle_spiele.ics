@@ -336,15 +336,6 @@ UID:9b718d6cf3865aa6111cab0d0170aa9e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
-DTEND:20260412T102000Z
-LOCATION:NEUFELD
-DTSTART:20260412T084500Z
-SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
-UID:c783334df7c1bc2fdd4ac01eaf74cc74
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
 DTEND:20260416T180000Z
 LOCATION:WIMPASSING
@@ -516,6 +507,15 @@ UID:90c1fb9ecb32ce0f62efbf3e731ce6a5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U8\n
+DTEND:20260407T160000Z
+LOCATION:NEUFELD
+DTSTART:20260407T150000Z
+SUMMARY:🏠 Heim: U8 Freundschaftsspiel ASV Neufeld vs Steinbrunn
+UID:5324bde805881510864a76f57223efdd
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
 DTEND:20260613T150000Z
 LOCATION:NEUFELD
@@ -639,6 +639,15 @@ LOCATION:LEITHAPRODERSDORF
 DTSTART:20260509T073000Z
 SUMMARY:🚗 Auswärts: U8 viele Gegner vs ASV Neufeld
 UID:f0f38b6c79a568a0cd23ac92df460d9f
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DTEND:20260412T102000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: U13 Freundschaftsspiel ASV Neufeld vs Marswiese
+UID:08f4b68551bf211ff9b0d38b6c7e7a44
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

@@ -21,15 +21,6 @@ UID:0eb46edb3c0a91e0fd3a9f2cb4d5ed5d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
-DTEND:20260412T102000Z
-LOCATION:NEUFELD
-DTSTART:20260412T084500Z
-SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
-UID:c783334df7c1bc2fdd4ac01eaf74cc74
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n❗ Dieses Spiel wurde abgesagt\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n
 DTEND:20260329T100500Z
 LOCATION:NEUFELD
@@ -81,5 +72,14 @@ LOCATION:RUST
 DTSTART:20260418T130000Z
 SUMMARY:🚗 Auswärts: U13 SC Eisenstadt/Rust vs ASV Neufeld
 UID:63809f1aad808b8a7c562b60390b520c
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DTEND:20260412T102000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: U13 Freundschaftsspiel ASV Neufeld vs Marswiese
+UID:08f4b68551bf211ff9b0d38b6c7e7a44
 END:VEVENT
 END:VCALENDAR

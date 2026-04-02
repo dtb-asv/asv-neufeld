@@ -60,7 +60,7 @@ def create_event(row):
     # Spielart
     spielart = str(row.get("SPIELART", "")).strip().lower()
     if spielart == "freundschaft":
-      titel = f"{prefix}: Freundschaftsspiel ASV Neufeld vs {gegner}"
+      titel = f"{prefix}: {liga} Freundschaftsspiel ASV Neufeld vs {gegner}"
     elif typ == "heim":
       titel = f"{prefix}: {liga} ASV Neufeld vs {gegner}"
     elif typ == "auswärts":

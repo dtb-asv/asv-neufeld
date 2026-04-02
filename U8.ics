@@ -21,6 +21,15 @@ UID:975055637c120072d61604d5dda5fa3c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U8\n
+DTEND:20260407T160000Z
+LOCATION:NEUFELD
+DTSTART:20260407T150000Z
+SUMMARY:🏠 Heim: U8 Freundschaftsspiel ASV Neufeld vs Steinbrunn
+UID:5324bde805881510864a76f57223efdd
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n
 DTEND:20260411T113000Z
 LOCATION:NEUFELD

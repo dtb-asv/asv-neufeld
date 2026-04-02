@@ -57,6 +57,15 @@ UID:fa56af6f3f248eb61e6409959b392a82
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DTEND:20260412T102000Z
+LOCATION:NEUFELD
+DTSTART:20260412T084500Z
+SUMMARY:🏠 Heim: U13 Freundschaftsspiel ASV Neufeld vs Marswiese
+UID:08f4b68551bf211ff9b0d38b6c7e7a44
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
 DTEND:20260509T091000Z
 LOCATION:NEUFELD
@@ -147,21 +156,21 @@ UID:f0068ab4cdb4c7f6d08e9aa163880c79
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
-DTEND:20260412T102000Z
-LOCATION:NEUFELD
-DTSTART:20260412T084500Z
-SUMMARY:🏠 Heim: Freundschaftsspiel ASV Neufeld vs Marswiese
-UID:c783334df7c1bc2fdd4ac01eaf74cc74
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U7\n
 DTEND:20260411T113000Z
 LOCATION:NEUFELD
 DTSTART:20260411T083000Z
 SUMMARY:🏠 Heim: U7 ASV Neufeld vs viele Gegner
 UID:fa50eb0d57709680c2468abd70f9a9e2
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U8\n
+DTEND:20260407T160000Z
+LOCATION:NEUFELD
+DTSTART:20260407T150000Z
+SUMMARY:🏠 Heim: U8 Freundschaftsspiel ASV Neufeld vs Steinbrunn
+UID:5324bde805881510864a76f57223efdd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
