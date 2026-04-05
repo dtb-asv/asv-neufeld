@@ -12,7 +12,7 @@ UID:faedee84f28b5a596d9f374db5836da8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 0:2 fr Illmitz\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n
 DTEND:20260404T144500Z
 LOCATION:NEUFELD
 DTSTART:20260404T130000Z
