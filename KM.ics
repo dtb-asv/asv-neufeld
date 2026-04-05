@@ -57,7 +57,7 @@ UID:f7888e9014f3166af3d9e6080db58986
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nEndstand 3:1 fü Neufeld\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:1 für Neufeld\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n
 DTEND:20260404T164500Z
 LOCATION:NEUFELD
 DTSTART:20260404T150000Z

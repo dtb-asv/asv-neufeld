@@ -543,7 +543,7 @@ UID:91a83afe049dbd88bffbdeb7e713e856
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nEndstand 0:2 fr Illmitz\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 0:2 für Illmitz\n\n⚽ Gegner: Illmitz\n🏆 Liga: U23\n
 DTEND:20260404T144500Z
 LOCATION:NEUFELD
 DTSTART:20260404T130000Z
@@ -714,7 +714,7 @@ UID:fa50eb0d57709680c2468abd70f9a9e2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nEndstand 3:1 fü Neufeld\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:1 für Neufeld\n\n⚽ Gegner: Illmitz\n🏆 Liga: KM\n
 DTEND:20260404T164500Z
 LOCATION:NEUFELD
 DTSTART:20260404T150000Z
