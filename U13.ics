@@ -75,7 +75,7 @@ UID:63809f1aad808b8a7c562b60390b520c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 2:2 Freundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
 DTEND:20260412T102000Z
 LOCATION:NEUFELD
 DTSTART:20260412T084500Z

@@ -48,7 +48,7 @@ UID:9414ff42c3f5077a46e0f017ac8f61cc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n
+DESCRIPTION:\nEndstand 3:1 für Edelserpentin\n\n⚽ Gegner: SPG SVO-Edelserpentin\n🏆 Liga: U16\n
 DTEND:20260412T144500Z
 LOCATION:WIMPASSING
 DTSTART:20260412T130000Z
@@ -57,7 +57,7 @@ UID:fa56af6f3f248eb61e6409959b392a82
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\nFreundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 2:2 Freundschaftsspiel\n\n⚽ Gegner: Marswiese\n🏆 Liga: U13\n
 DTEND:20260412T102000Z
 LOCATION:NEUFELD
 DTSTART:20260412T084500Z
@@ -318,7 +318,7 @@ UID:2a0aa4c4377d69c6984504526c62e544
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 3:2 für Parndorf\n\n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n
 DTEND:20260412T123000Z
 LOCATION:NEUFELD
 DTSTART:20260412T110000Z
