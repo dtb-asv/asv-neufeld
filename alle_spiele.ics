@@ -75,7 +75,7 @@ UID:108835fc71951d427f2370fb25d0d99f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 3:2 für SK Pama\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260410T180000Z
 LOCATION:PAMA
 DTSTART:20260410T163000Z
@@ -363,7 +363,7 @@ UID:f6b0719dcbe65b8f26820de0fd760f81
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 7:2 für Neufeld\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260411T141000Z
 LOCATION:NEUFELD
 DTSTART:20260411T130000Z

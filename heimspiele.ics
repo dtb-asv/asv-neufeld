@@ -210,7 +210,7 @@ UID:91a83afe049dbd88bffbdeb7e713e856
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 7:2 für Neufeld\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260411T141000Z
 LOCATION:NEUFELD
 DTSTART:20260411T130000Z
