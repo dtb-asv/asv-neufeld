@@ -345,7 +345,7 @@ UID:9b718d6cf3865aa6111cab0d0170aa9e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 1:0 für Großhöflein\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
 DTEND:20260416T180000Z
 LOCATION:WIMPASSING
 DTSTART:20260416T163000Z
