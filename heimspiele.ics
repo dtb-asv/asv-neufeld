@@ -228,7 +228,7 @@ UID:bcc6e1fe31a6b8ac3c44ed5fef875812
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:3\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U23\n
 DTEND:20260418T151500Z
 LOCATION:NEUFELD
 DTSTART:20260418T133000Z
@@ -264,7 +264,7 @@ UID:046f8eef8c589a1a884d33d2880e33cd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:1 für Neufeld\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: KM\n
 DTEND:20260418T171500Z
 LOCATION:NEUFELD
 DTSTART:20260418T153000Z

@@ -66,7 +66,7 @@ UID:ac02e8698120a566c43f5731493ffb33
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 2:2\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260418T143500Z
 LOCATION:RUST
 DTSTART:20260418T130000Z
