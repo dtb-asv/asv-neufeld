@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n
+DESCRIPTION:\nEndstand 5:1 für Wolfau\n\n⚽ Gegner: SV BB1 Wolfau\n🏆 Liga: U16\n
 DTEND:20260419T164500Z
 LOCATION:WOLFAU
 DTSTART:20260419T150000Z
@@ -30,7 +30,7 @@ UID:24694200863496c44753abd78588a747
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 3:3\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n
 DTEND:20260419T173000Z
 LOCATION:KITTSEE
 DTSTART:20260419T160000Z
@@ -291,7 +291,7 @@ UID:e5a4c6379b1ebf18bd4d2e6bcf236318
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 4:2 für Klingenbach\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260419T131000Z
 LOCATION:KLINGENBACH
 DTSTART:20260419T120000Z

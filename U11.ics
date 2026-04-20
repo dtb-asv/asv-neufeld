@@ -48,7 +48,7 @@ UID:bcc6e1fe31a6b8ac3c44ed5fef875812
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 4:2 für Klingenbach\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260419T131000Z
 LOCATION:KLINGENBACH
 DTSTART:20260419T120000Z
