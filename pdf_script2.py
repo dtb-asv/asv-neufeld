@@ -14,7 +14,7 @@ background_path = "background.jpg"
 
 
 modus = "single"  # "single" oder "alle"
-ziel_datum_input = "2026-04-21"
+ziel_datum_input = "2026-04-20"
 if ziel_datum_input:
     ziel_datum = datetime.strptime(ziel_datum_input, "%Y-%m-%d")
 else:

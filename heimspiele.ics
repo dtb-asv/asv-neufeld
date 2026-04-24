@@ -282,7 +282,7 @@ UID:8b7cebe22e76a83878bf307c1f009ebf
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 4:2 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
 DTEND:20260423T161000Z
 LOCATION:NEUFELD
 DTSTART:20260423T150000Z
