@@ -111,7 +111,7 @@ UID:de85443e095c8633132556241f4eb3be
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 6:2 für Neufeld\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
 DTEND:20260425T103000Z
 LOCATION:NEUFELD
 DTSTART:20260425T090000Z
