@@ -66,7 +66,7 @@ UID:f4e9c6a4b146d99cd82c2a5ea784f8bc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 1:1\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: KM\n
 DTEND:20260424T194500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T180000Z
@@ -669,7 +669,7 @@ UID:faedee84f28b5a596d9f374db5836da8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:0 für Deutsch Jahrndorf\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n
 DTEND:20260424T174500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T160000Z

@@ -48,7 +48,7 @@ UID:90c1fb9ecb32ce0f62efbf3e731ce6a5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:0 für Deutsch Jahrndorf\n\n⚽ Gegner: Deutsch-Jahrndorf\n🏆 Liga: U23\n
 DTEND:20260424T174500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260424T160000Z
