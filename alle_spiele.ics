@@ -183,7 +183,7 @@ UID:e32f34e2a0b4b590ad1d4e1529f7434a
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 7:2 für Breitenbrunn\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n
 DTEND:20260426T103500Z
 LOCATION:NEUFELD
 DTSTART:20260426T090000Z
@@ -309,7 +309,7 @@ UID:aedddb0599de5e47f76bd16c404ff484
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 2:2\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
 DTEND:20260425T180000Z
 LOCATION:NEUSIEDL
 DTSTART:20260425T163000Z

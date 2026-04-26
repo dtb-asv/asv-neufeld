@@ -39,7 +39,7 @@ UID:861f669cf6741eed86c40169ef8b5f16
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 7:2 für Breitenbrunn\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Winden\n🏆 Liga: U13\n
 DTEND:20260426T103500Z
 LOCATION:NEUFELD
 DTSTART:20260426T090000Z
