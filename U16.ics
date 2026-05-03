@@ -84,7 +84,7 @@ UID:07b3903cfc5b7be8b877285bec5603da
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
+DESCRIPTION:\nEndstand 2:2\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
 DTEND:20260501T151500Z
 LOCATION:ST. GEORGEN
 DTSTART:20260501T133000Z

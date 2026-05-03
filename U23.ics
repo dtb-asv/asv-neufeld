@@ -93,7 +93,7 @@ UID:fdc8b49d53f979bbef14193860a9fed7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 6:0 für Neufeld\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
 DTEND:20260502T154500Z
 LOCATION:NEUFELD
 DTSTART:20260502T140000Z

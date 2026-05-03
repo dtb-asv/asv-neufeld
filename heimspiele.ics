@@ -129,7 +129,7 @@ UID:04808ca6c272cd6c8ff3cee151bf86e1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 5:0 für Neufeld\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
 DTEND:20260503T133000Z
 LOCATION:NEUFELD
 DTSTART:20260503T120000Z
@@ -147,7 +147,7 @@ UID:ff09786bede12f0027557fa2b82c59be
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 6:0 für Neufeld\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
 DTEND:20260502T154500Z
 LOCATION:NEUFELD
 DTSTART:20260502T140000Z
@@ -246,7 +246,7 @@ UID:d700964407aba55877e3e650a36bd8f4
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 2:2\n\n⚽ Gegner: SPG Rosalia/Marz\n🏆 Liga: U15\n
 DTEND:20260503T100000Z
 LOCATION:NEUFELD
 DTSTART:20260503T083000Z
@@ -255,7 +255,7 @@ UID:83a64454cbbc9310273fd37f073a2c3f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:0 für Hornstein\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n
 DTEND:20260502T174500Z
 LOCATION:NEUFELD
 DTSTART:20260502T160000Z
