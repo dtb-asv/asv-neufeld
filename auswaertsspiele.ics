@@ -57,7 +57,7 @@ UID:f4e9c6a4b146d99cd82c2a5ea784f8bc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:0 für Neufeld\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n
 DTEND:20260509T171500Z
 LOCATION:GOLS
 DTSTART:20260509T153000Z
@@ -129,7 +129,7 @@ UID:faedee84f28b5a596d9f374db5836da8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 5:0 für Neufeld\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
 DTEND:20260509T173000Z
 LOCATION:WULKAPRODERSDORF
 DTSTART:20260509T160000Z
@@ -201,7 +201,7 @@ UID:b963d4a57b3ad5d752547b97d3b68a0f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:1 für Gols\n\n⚽ Gegner: Gols\n🏆 Liga: U23\n
 DTEND:20260509T151500Z
 LOCATION:GOLS
 DTSTART:20260509T133000Z
@@ -273,7 +273,7 @@ UID:f6b0719dcbe65b8f26820de0fd760f81
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 7:3 für Kittsee\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U13\n
 DTEND:20260509T103500Z
 LOCATION:KITTSEE
 DTSTART:20260509T090000Z

@@ -66,7 +66,7 @@ UID:ff09786bede12f0027557fa2b82c59be
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 5:0 für Neufeld\n\n⚽ Gegner: SV Wulkaprodersdorf\n🏆 Liga: U14\n
 DTEND:20260509T173000Z
 LOCATION:WULKAPRODERSDORF
 DTSTART:20260509T160000Z

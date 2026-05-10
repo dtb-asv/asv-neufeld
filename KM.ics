@@ -84,7 +84,7 @@ UID:04808ca6c272cd6c8ff3cee151bf86e1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:0 für Neufeld\n\n⚽ Gegner: Gols\n🏆 Liga: KM\n
 DTEND:20260509T171500Z
 LOCATION:GOLS
 DTSTART:20260509T153000Z
