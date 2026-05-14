@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
-DTEND:20260518T164000Z
-LOCATION:NEUFELD
-DTSTART:20260518T153000Z
-SUMMARY:🏠 Heim: U11 ASV Neufeld vs Steinbrunn
-UID:d1901db459c8658f221ad4bfeb086437
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\nEndstand 5:1 für Steinbrunn\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
 DTEND:20260415T164000Z
 LOCATION:NEUFELD
@@ -54,6 +45,15 @@ LOCATION:KLINGENBACH
 DTSTART:20260419T120000Z
 SUMMARY:🚗 Auswärts: U11 SPG Klimpuh vs ASV Neufeld
 UID:c4610a32c3be1b3c0292f9c461dd71b2
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 4:3 für Neufeld\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
+DTEND:20260513T164000Z
+LOCATION:NEUFELD
+DTSTART:20260513T153000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs Steinbrunn
+UID:3f362ed57e5ac3fc754f85adc50ac20b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
