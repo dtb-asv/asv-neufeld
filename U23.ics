@@ -75,7 +75,7 @@ UID:f463c9aa1a5ae255c4b222baa39c4c19
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:1 für Wimpassing\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20260524T161500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T143000Z

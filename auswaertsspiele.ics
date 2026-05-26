@@ -93,7 +93,7 @@ UID:72cf66ffde6760ec9846f36ac7f8e0ea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:1 für Wimpassing\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20260524T161500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T143000Z
@@ -183,7 +183,7 @@ UID:8f0d75669a10eda8209631bd240f3de5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
+DESCRIPTION:\nGroßhöflein wollte nicht verschieben - daher 3:0 für Großhöflein\, wir hatten zu wenige Spieler. (Verletzungen und Turniere der U14 und U16)\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
 DTEND:20260523T183000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260523T170000Z
@@ -336,7 +336,7 @@ UID:4967b150c00b3174f8c98bb677b5cb1d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 1:1\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
 DTEND:20260524T181500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T163000Z

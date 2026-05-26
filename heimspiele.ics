@@ -156,7 +156,7 @@ UID:e8d65ba1caf131e1e16aee04cddb4575
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DESCRIPTION:\n12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260522T161000Z
 LOCATION:NEUFELD
 DTSTART:20260522T150000Z
@@ -372,7 +372,7 @@ UID:86aa3f368b4e30086867fa3827b27d43
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
+DESCRIPTION:\n5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260525T153500Z
 LOCATION:NEUFELD
 DTSTART:20260525T140000Z

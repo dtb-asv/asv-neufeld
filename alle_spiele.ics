@@ -120,7 +120,7 @@ UID:04808ca6c272cd6c8ff3cee151bf86e1
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
+DESCRIPTION:\nGroßhöflein wollte nicht verschieben - daher 3:0 für Großhöflein\, wir hatten zu wenige Spieler. (Verletzungen und Turniere der U14 und U16)\n\n⚽ Gegner: FC Großhöflein\n🏆 Liga: U15\n
 DTEND:20260523T183000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260523T170000Z
@@ -579,7 +579,7 @@ UID:2b80dc2455c143e813ae938913c552e3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
+DESCRIPTION:\n5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260525T153500Z
 LOCATION:NEUFELD
 DTSTART:20260525T140000Z
@@ -633,7 +633,7 @@ UID:72cf66ffde6760ec9846f36ac7f8e0ea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:1 für Wimpassing\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20260524T161500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T143000Z
@@ -687,7 +687,7 @@ UID:7a73fbdf4d683adedd71f444fbe765c8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DESCRIPTION:\n12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260522T161000Z
 LOCATION:NEUFELD
 DTSTART:20260522T150000Z
@@ -759,7 +759,7 @@ UID:c4610a32c3be1b3c0292f9c461dd71b2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 1:1\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
 DTEND:20260524T181500Z
 LOCATION:WIMPASSING
 DTSTART:20260524T163000Z
