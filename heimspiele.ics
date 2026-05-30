@@ -156,7 +156,7 @@ UID:e8d65ba1caf131e1e16aee04cddb4575
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260522T161000Z
 LOCATION:NEUFELD
 DTSTART:20260522T150000Z

@@ -39,7 +39,7 @@ UID:11b3ffafe83d998ed827f3a4b088014b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 3:3\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U14\n
 DTEND:20260529T190000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20260529T173000Z
@@ -84,7 +84,7 @@ UID:d0fa9d0692d07a82f7a6d41121322855
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 3:2 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
 DTEND:20260529T161000Z
 LOCATION:STOTZING
 DTSTART:20260529T150000Z
@@ -201,7 +201,7 @@ UID:7aea42120e02f3d6f5d665d28a405898
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 6:2 für Margarethen\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260527T171000Z
 LOCATION:ST. MARGARETHEN
 DTSTART:20260527T160000Z

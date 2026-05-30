@@ -21,7 +21,7 @@ UID:d306355cb0d238f6f0c8232f0823d148
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 3:2 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
 DTEND:20260529T161000Z
 LOCATION:STOTZING
 DTSTART:20260529T150000Z
@@ -39,7 +39,7 @@ UID:bcc6e1fe31a6b8ac3c44ed5fef875812
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 6:2 für Margarethen\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
 DTEND:20260527T171000Z
 LOCATION:ST. MARGARETHEN
 DTSTART:20260527T160000Z
@@ -66,7 +66,7 @@ UID:3f362ed57e5ac3fc754f85adc50ac20b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DESCRIPTION:\nEndstand 12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
 DTEND:20260522T161000Z
 LOCATION:NEUFELD
 DTSTART:20260522T150000Z
