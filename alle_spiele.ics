@@ -381,7 +381,7 @@ UID:b904c55ab668967c0150763e1a599895
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 3:0 für Neufeld\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n
 DTEND:20260530T181500Z
 LOCATION:WINDEN
 DTSTART:20260530T163000Z
@@ -795,7 +795,7 @@ UID:3f362ed57e5ac3fc754f85adc50ac20b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 3:2 für Neufeld\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n
 DTEND:20260530T161500Z
 LOCATION:WINDEN
 DTSTART:20260530T143000Z
