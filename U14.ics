@@ -30,7 +30,7 @@ UID:fff3bc3e9bd1230654dfad3b0c677ec6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 3:1 für Neufeld\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260531T133000Z
 LOCATION:NEUFELD
 DTSTART:20260531T120000Z

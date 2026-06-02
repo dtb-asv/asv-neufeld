@@ -66,7 +66,7 @@ UID:9414ff42c3f5077a46e0f017ac8f61cc
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 3:1 für Neufeld\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260531T133000Z
 LOCATION:NEUFELD
 DTSTART:20260531T120000Z
@@ -75,7 +75,7 @@ UID:e136b9848fe42689890a131ed81e5e99
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n
+DESCRIPTION:\nEndstand 5:2 für SPG DER CLUB\n\n⚽ Gegner: SPG DER CLUB/Kirchschlag\n🏆 Liga: U16\n
 DTEND:20260531T121500Z
 LOCATION:KIRCHSCHLAG
 DTSTART:20260531T103000Z
@@ -363,7 +363,7 @@ UID:5f42078a677d5c358181c662209cbe4d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 2:2\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n
 DTEND:20260531T173500Z
 LOCATION:BREITENBRUNN
 DTSTART:20260531T160000Z
@@ -408,7 +408,7 @@ UID:bcc6e1fe31a6b8ac3c44ed5fef875812
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 2:0 für Neusiedl\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
 DTEND:20260531T100000Z
 LOCATION:WIMPASSING
 DTSTART:20260531T083000Z
@@ -579,7 +579,7 @@ UID:2b80dc2455c143e813ae938913c552e3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260525T153500Z
 LOCATION:NEUFELD
 DTSTART:20260525T140000Z

@@ -57,7 +57,7 @@ UID:fa56af6f3f248eb61e6409959b392a82
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
+DESCRIPTION:\nEndstand 3:1 für Neufeld\n\n⚽ Gegner: SK Pama\n🏆 Liga: U14\n
 DTEND:20260531T133000Z
 LOCATION:NEUFELD
 DTSTART:20260531T120000Z
@@ -237,7 +237,7 @@ UID:f463c9aa1a5ae255c4b222baa39c4c19
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 2:0 für Neusiedl\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
 DTEND:20260531T100000Z
 LOCATION:WIMPASSING
 DTSTART:20260531T083000Z
@@ -372,7 +372,7 @@ UID:86aa3f368b4e30086867fa3827b27d43
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260525T153500Z
 LOCATION:NEUFELD
 DTSTART:20260525T140000Z

@@ -57,7 +57,7 @@ UID:7aea42120e02f3d6f5d665d28a405898
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
+DESCRIPTION:\nEndstand 2:0 für Neusiedl\n\n⚽ Gegner: SC Neusiedl am See 1919\n🏆 Liga: U15\n
 DTEND:20260531T100000Z
 LOCATION:WIMPASSING
 DTSTART:20260531T083000Z

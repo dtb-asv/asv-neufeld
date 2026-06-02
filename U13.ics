@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 2:2\n\n⚽ Gegner: SPG Breitenbrunn/Purbach/Windne\n🏆 Liga: U13\n
 DTEND:20260531T173500Z
 LOCATION:BREITENBRUNN
 DTSTART:20260531T160000Z
@@ -57,7 +57,7 @@ UID:f69a96b1a17f9bba91176547d3eb81c7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 5:0 für Eisenstadt\n\n⚽ Gegner: SC Eisenstadt/Rust\n🏆 Liga: U13\n
 DTEND:20260525T153500Z
 LOCATION:NEUFELD
 DTSTART:20260525T140000Z
