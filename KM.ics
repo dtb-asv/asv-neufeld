@@ -48,7 +48,7 @@ UID:ff3b7f27c0890fbc0110dae6d6bd4342
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 2:1 für Neufeld\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
 DTEND:20260606T174500Z
 LOCATION:NEUFELD
 DTSTART:20260606T160000Z

@@ -30,7 +30,7 @@ UID:2b2af672edf06aee62b349586c62df40
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
+DESCRIPTION:\nEndstand 2:1 für Neufeld\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
 DTEND:20260606T174500Z
 LOCATION:NEUFELD
 DTSTART:20260606T160000Z
@@ -300,7 +300,7 @@ UID:2b80dc2455c143e813ae938913c552e3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n
+DESCRIPTION:\nEndstand 2:0 für Leithaprodersdorf\n\n⚽ Gegner: SPG Leitha/Stotzing\n🏆 Liga: U13\n
 DTEND:20260607T103500Z
 LOCATION:NEUFELD
 DTSTART:20260607T090000Z
@@ -309,7 +309,7 @@ UID:861f669cf6741eed86c40169ef8b5f16
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
+DESCRIPTION:\nEndstand 6:2 für St. Georgen\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
 DTEND:20260607T164500Z
 LOCATION:NEUFELD
 DTSTART:20260607T150000Z
@@ -390,7 +390,7 @@ UID:5bb8ab6174d8770b427e892d16d2e597
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: U23\n
+DESCRIPTION:\nEndstand 4:0 für Kittsee\n\n⚽ Gegner: Kittsee\n🏆 Liga: U23\n
 DTEND:20260606T154500Z
 LOCATION:NEUFELD
 DTSTART:20260606T140000Z
