@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: 16 Mannschaften\n🏆 Liga: Qualifikationsturnier zum Geza Gallos Gedenturnier\n
+DTEND:20260613T150000Z
+LOCATION:NEUFELD
+DTSTART:20260613T080000Z
+SUMMARY:🏠 Heim: Qualifikationsturnier zum Geza Gallos Gedenturnier ASV Neufeld vs 16 Mannschaften
+UID:51785590c3d2d3d9b7dbaafdd91457a2
+END:VEVENT
+END:VCALENDAR

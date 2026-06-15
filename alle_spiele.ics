@@ -525,15 +525,6 @@ UID:5324bde805881510864a76f57223efdd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
-DTEND:20260613T150000Z
-LOCATION:NEUFELD
-DTSTART:20260613T080000Z
-SUMMARY:🏠 Heim: GGG ASV Neufeld vs viele Gegner
-UID:1a3a49c6a19a0368a05e450e33ef91f0
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\nEndstand 4:0 für Parndorf\n\n⚽ Gegner: SC/ESV Parndorf 1919\n🏆 Liga: U15\n
 DTEND:20260515T170000Z
 LOCATION:PARNDORF
@@ -570,7 +561,7 @@ UID:d306355cb0d238f6f0c8232f0823d148
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
+DESCRIPTION:\nSieger TWL-Elektra zweiter Wiener Sportclu Dritter SV Donau Luckylooser FC A11 Rapid Oberlaa\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
 DTEND:20260822T160000Z
 LOCATION:NEUFELD
 DTSTART:20260822T070000Z
@@ -657,6 +648,15 @@ LOCATION:NEUFELD
 DTSTART:20260412T084500Z
 SUMMARY:🏠 Heim: U13 Freundschaftsspiel ASV Neufeld vs Marswiese
 UID:08f4b68551bf211ff9b0d38b6c7e7a44
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: 16 Mannschaften\n🏆 Liga: Qualifikationsturnier zum Geza Gallos Gedenturnier\n
+DTEND:20260613T150000Z
+LOCATION:NEUFELD
+DTSTART:20260613T080000Z
+SUMMARY:🏠 Heim: Qualifikationsturnier zum Geza Gallos Gedenturnier ASV Neufeld vs 16 Mannschaften
+UID:51785590c3d2d3d9b7dbaafdd91457a2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

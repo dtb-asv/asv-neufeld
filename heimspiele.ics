@@ -75,6 +75,15 @@ UID:08f4b68551bf211ff9b0d38b6c7e7a44
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: 16 Mannschaften\n🏆 Liga: Qualifikationsturnier zum Geza Gallos Gedenturnier\n
+DTEND:20260613T150000Z
+LOCATION:NEUFELD
+DTSTART:20260613T080000Z
+SUMMARY:🏠 Heim: Qualifikationsturnier zum Geza Gallos Gedenturnier ASV Neufeld vs 16 Mannschaften
+UID:51785590c3d2d3d9b7dbaafdd91457a2
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\nEndstand 4:0 für Kittsee\n\n⚽ Gegner: SC Kittsee\n🏆 Liga: U14\n
 DTEND:20260521T183000Z
 LOCATION:NEUFELD
@@ -201,15 +210,6 @@ UID:cc64de8dc121a530d26ae21b4dfa73ab
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
-DTEND:20260613T150000Z
-LOCATION:NEUFELD
-DTSTART:20260613T080000Z
-SUMMARY:🏠 Heim: GGG ASV Neufeld vs viele Gegner
-UID:1a3a49c6a19a0368a05e450e33ef91f0
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: U8\n
 DTEND:20260411T113000Z
 LOCATION:NEUFELD
@@ -291,7 +291,7 @@ UID:d306355cb0d238f6f0c8232f0823d148
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
+DESCRIPTION:\nSieger TWL-Elektra zweiter Wiener Sportclu Dritter SV Donau Luckylooser FC A11 Rapid Oberlaa\n\n⚽ Gegner: viele Gegner\n🏆 Liga: GGG\n
 DTEND:20260822T160000Z
 LOCATION:NEUFELD
 DTSTART:20260822T070000Z
