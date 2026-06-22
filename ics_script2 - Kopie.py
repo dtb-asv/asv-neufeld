@@ -9,27 +9,7 @@ from tkinter import Tk, filedialog
 # -----------------------------
 # Einstellungen
 # -----------------------------
-# -------------------------------------------------
-# Excel-Datei auswählen
-# -------------------------------------------------
-
-# kleines Fenster öffnen (nur Dateiauswahl)
-root = Tk()
-root.withdraw()
-
-excel = filedialog.askopenfilename(
-    title="Bitte Saison auswählen",
-    initialdir="Excel",
-    filetypes=[("Excel-Dateien", "*.xlsx")]
-)
-
-# Abbruch?
-if not excel:
-    print("Keine Excel-Datei ausgewählt.")
-    exit()
-
-print(f"Verwende Excel-Datei: {excel}")
-
+datei = "Terminefussball_2026_Frühjahr.xlsx"
 sheet = "ICS2"
 tz = pytz.timezone("Europe/Vienna")
 
@@ -129,7 +109,7 @@ def create_event(row):
 # -----------------------------
 # Excel einlesen
 # -----------------------------
-df = pd.read_excel(excel, sheet_name=sheet)
+df = pd.read_excel(datei, sheet_name=sheet)
 
 # -----------------------------
 # Kalender erstellen
