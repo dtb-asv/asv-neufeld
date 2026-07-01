@@ -3,11 +3,74 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: 0\n🏆 Liga: U11\n
-DTEND:20260621T231000Z
-LOCATION:nan
-DTSTART:20260621T220000Z
-SUMMARY:📅 Spiel: U11 ASV Neufeld vs 0
-UID:1c9aecf5137d396107b437cb2d74a86b
+DESCRIPTION:\nEndstand 5:1 für Steinbrunn\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
+DTEND:20260415T164000Z
+LOCATION:NEUFELD
+DTSTART:20260415T153000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs Steinbrunn
+UID:655491164d73d79a60544fbe23449ccd
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 4:2 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
+DTEND:20260423T161000Z
+LOCATION:NEUFELD
+DTSTART:20260423T150000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs Stotzing
+UID:d306355cb0d238f6f0c8232f0823d148
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 3:2 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U11\n
+DTEND:20260529T161000Z
+LOCATION:STOTZING
+DTSTART:20260529T150000Z
+SUMMARY:🚗 Auswärts: U11 Stotzing vs ASV Neufeld
+UID:72cf66ffde6760ec9846f36ac7f8e0ea
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 7:2 für Neufeld\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
+DTEND:20260411T141000Z
+LOCATION:NEUFELD
+DTSTART:20260411T130000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs SPG Waha St. Margarethen
+UID:bcc6e1fe31a6b8ac3c44ed5fef875812
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 6:2 für Margarethen\n\n⚽ Gegner: SPG Waha St. Margarethen\n🏆 Liga: U11\n
+DTEND:20260527T171000Z
+LOCATION:ST. MARGARETHEN
+DTSTART:20260527T160000Z
+SUMMARY:🚗 Auswärts: U11 SPG Waha St. Margarethen vs ASV Neufeld
+UID:05b4e5e13ad18479038c0ea3760b2c2e
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 4:2 für Klingenbach\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DTEND:20260419T131000Z
+LOCATION:KLINGENBACH
+DTSTART:20260419T120000Z
+SUMMARY:🚗 Auswärts: U11 SPG Klimpuh vs ASV Neufeld
+UID:c4610a32c3be1b3c0292f9c461dd71b2
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 4:3 für Neufeld\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U11\n
+DTEND:20260513T164000Z
+LOCATION:NEUFELD
+DTSTART:20260513T153000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs Steinbrunn
+UID:3f362ed57e5ac3fc754f85adc50ac20b
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nEndstand 12:4 für Klimpuh Juniors\n\n⚽ Gegner: SPG Klimpuh\n🏆 Liga: U11\n
+DTEND:20260522T161000Z
+LOCATION:NEUFELD
+DTSTART:20260522T150000Z
+SUMMARY:🏠 Heim: U11 ASV Neufeld vs SPG Klimpuh
+UID:f0068ab4cdb4c7f6d08e9aa163880c79
 END:VEVENT
 END:VCALENDAR

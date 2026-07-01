@@ -19,7 +19,7 @@ root.withdraw()
 
 excel = filedialog.askopenfilename(
     title="Bitte Saison auswählen",
-    initialdir="Excel",
+    initialdir="Excel2",
     filetypes=[("Excel-Dateien", "*.xlsx")]
 )
 
