@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\nWeihnachtsfeier Nachwuchs ASV\n\n⚽ Gegner: Weihnachtsfeier 2026\n🏆 Liga: Weihnachtsfeier\n
+DTEND:20261203T200000Z
+LOCATION:STEINBRUNN
+DTSTART:20261203T160000Z
+SUMMARY:🏠 Heim: Weihnachtsfeier ASV Neufeld vs Weihnachtsfeier 2026
+UID:70b48eb9f29404896c0dac482909a72e
+END:VEVENT
+END:VCALENDAR
