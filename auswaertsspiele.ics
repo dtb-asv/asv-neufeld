@@ -3,6 +3,15 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Admira Wiener Neustadt\n🏆 Liga: U23\n
+DTEND:20260731T164500Z
+LOCATION:WIENER NEUSTADT
+DTSTART:20260731T150000Z
+SUMMARY:🚗 Auswärts: U23 Admira Wiener Neustadt vs ASV Neufeld
+UID:344db154ebf85a254bbb4c97a5d02dc9
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
 DTEND:20261016T171500Z
 LOCATION:HORNSTEIN
