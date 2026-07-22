@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Oktoberfest 2026\n🏆 Liga: Fest ASV Neufeld\n
+DTEND:20260926T200000Z
+LOCATION:NEUFELD
+DTSTART:20260926T160000Z
+SUMMARY:🏠 Heim: Fest ASV Neufeld ASV Neufeld vs Oktoberfest 2026
+UID:98aa9781673b7c66ee8dd4da98294202
+END:VEVENT
+END:VCALENDAR
