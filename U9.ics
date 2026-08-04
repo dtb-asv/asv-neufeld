@@ -30,6 +30,15 @@ UID:9eb1026c27a5abb3de432dde749a0aaa
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Spielfrei\n🏆 Liga: U9\n
+DTEND:20251231T020000Z
+LOCATION:nan
+DTSTART:20251230T230000Z
+SUMMARY:📅 Spiel: U9 ASV Neufeld vs Spielfrei
+UID:62ea96a8cce0c24c54a0f5cd2cb5f7c0
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
 DTEND:20260911T010000Z
 LOCATION:NEUFELD
