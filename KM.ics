@@ -165,7 +165,7 @@ UID:69c7c8cfca0dd2066ba970cbdb5482f5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n1:0 für Kittsee - Somit BFV-Cup beendet\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
+DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
 DTEND:20260801T171500Z
 LOCATION:KITTSEE
 DTSTART:20260801T153000Z
