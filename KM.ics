@@ -48,7 +48,7 @@ UID:803eb5a856ac5dd7efd59369d1f2a518
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
+DESCRIPTION:\nnach einer 2:0 Führung noch 4:2 verloren\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
 DTEND:20260816T171500Z
 LOCATION:KITTSEE
 DTSTART:20260816T153000Z
@@ -156,7 +156,7 @@ UID:69c7c8cfca0dd2066ba970cbdb5482f5
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
+DESCRIPTION:\nbittere 1:0 Niederlage\, somit aus dem BFV-Cup ausgeschieden\n\n⚽ Gegner: Kittsee\n🏆 Liga: KM\n
 DTEND:20260801T171500Z
 LOCATION:KITTSEE
 DTSTART:20260801T153000Z
