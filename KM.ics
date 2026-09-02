@@ -12,7 +12,7 @@ UID:846cdaf42d548d13b0e38b4c994da983
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Tadten\n🏆 Liga: KM\n
+DESCRIPTION:\n2:2 \n\n⚽ Gegner: Tadten\n🏆 Liga: KM\n
 DTEND:20260829T174500Z
 LOCATION:NEUFELD
 DTSTART:20260829T160000Z
@@ -111,7 +111,7 @@ UID:751d57d4ab1bbd79b14b50b82aa4ec88
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Deutsch Jahrndorf\n🏆 Liga: KM\n
+DESCRIPTION:\n4:0 für Deutsch-Jahndorf\n\n⚽ Gegner: Deutsch Jahrndorf\n🏆 Liga: KM\n
 DTEND:20260821T194500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260821T180000Z

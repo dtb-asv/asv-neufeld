@@ -3,21 +3,12 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U12_1\n
-DTEND:20260919T094000Z
+DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh Juniors\n🏆 Liga: U12_1\n
+DTEND:20261017T161000Z
 LOCATION:NEUFELD
-DTSTART:20260919T083000Z
-SUMMARY:🏠 Heim: U12_1 ASV Neufeld vs Leithaprodersdorf
-UID:b0d54961764c5d96041168d48d34ca61
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
-DTEND:20261008T231000Z
-LOCATION:STOTZING
-DTSTART:20261008T220000Z
-SUMMARY:🚗 Auswärts: U12_1 Stotzing vs ASV Neufeld
-UID:2db3a3c7de6a2bc6fcdca0f35a36d372
+DTSTART:20261017T150000Z
+SUMMARY:🏠 Heim: U12_1 ASV Neufeld vs SPG Klimpuh Juniors
+UID:905aba2e1028f03ab9c0a41dd94eb077
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
@@ -39,6 +30,15 @@ UID:3bf2c3dbe1aa84daed1150f1cdce53f8
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Hornstein/Wimpasing\n🏆 Liga: U12_1\n
+DTEND:20261107T134000Z
+LOCATION:HORNSTEIN
+DTSTART:20261107T123000Z
+SUMMARY:🚗 Auswärts: U12_1 Hornstein/Wimpasing vs ASV Neufeld
+UID:6eb07eec8d2afbe8a1a9293cb95a6b56
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
 DTEND:20260926T111000Z
 LOCATION:RUST
@@ -48,12 +48,21 @@ UID:afa642f56adccc1cc4046f3ce1435e74
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Klimpuh Juniors\n🏆 Liga: U12_1\n
-DTEND:20261017T161000Z
+DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
+DTEND:20261009T151000Z
+LOCATION:STOTZING
+DTSTART:20261009T140000Z
+SUMMARY:🚗 Auswärts: U12_1 Stotzing vs ASV Neufeld
+UID:4889df479e9fec2eb368636399550bb0
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
+DESCRIPTION:\n\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U12_1\n
+DTEND:20260922T164000Z
 LOCATION:NEUFELD
-DTSTART:20261017T150000Z
-SUMMARY:🏠 Heim: U12_1 ASV Neufeld vs SPG Klimpuh Juniors
-UID:905aba2e1028f03ab9c0a41dd94eb077
+DTSTART:20260922T153000Z
+SUMMARY:🏠 Heim: U12_1 ASV Neufeld vs Leithaprodersdorf
+UID:aa5b39b70f2a86979b6b4aa8dca7e07c
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
@@ -72,15 +81,6 @@ LOCATION:STEINBRUNN
 DTSTART:20261003T100000Z
 SUMMARY:🏠 Heim: U12_1 ASV Neufeld vs Hornstein/Wimpasing
 UID:83348a492167f932bf5eab90229a9df7
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein/Wimpasing\n🏆 Liga: U12_1\n
-DTEND:20261106T174000Z
-LOCATION:HORNSTEIN
-DTSTART:20261106T163000Z
-SUMMARY:🚗 Auswärts: U12_1 Hornstein/Wimpasing vs ASV Neufeld
-UID:ece2d1d5789977720ab918de0b9863d4
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}

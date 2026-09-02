@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Tadten\n🏆 Liga: U23\n
+DESCRIPTION:\n2:4 für Tadten\n\n⚽ Gegner: Tadten\n🏆 Liga: U23\n
 DTEND:20260829T154500Z
 LOCATION:NEUFELD
 DTSTART:20260829T140000Z
@@ -66,7 +66,7 @@ UID:c35151f41da7ab3ad5f0c038e55827de
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Deutsch Jahrndorf\n🏆 Liga: U23\n
+DESCRIPTION:\n3:0 für Deutsch-Jahndof\n\n⚽ Gegner: Deutsch Jahrndorf\n🏆 Liga: U23\n
 DTEND:20260821T174500Z
 LOCATION:DEUTSCH JAHRNDORF
 DTSTART:20260821T160000Z
