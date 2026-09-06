@@ -120,7 +120,7 @@ UID:e53d23134f0ad866893d1071fb96d725
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U14\n
+DESCRIPTION:\n4:2 für St. Georgen/Eisenstadt\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U14\n
 DTEND:20260905T100000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260905T083000Z
@@ -147,7 +147,7 @@ UID:88c6fea176064317955278ca5afc712f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: St. Margarethen\n🏆 Liga: U12_2\n
+DESCRIPTION:\n5:1 für SPG ASV\n\n⚽ Gegner: St. Margarethen\n🏆 Liga: U12_2\n
 DTEND:20260905T111000Z
 LOCATION:STEINBRUNN
 DTSTART:20260905T100000Z
@@ -183,7 +183,7 @@ UID:e618d033a29158a34edf23597644cdc3
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U11\n
+DESCRIPTION:\n16:1 für Leithaprodersdorf\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U11\n
 DTEND:20260905T091000Z
 LOCATION:STEINBRUNN
 DTSTART:20260905T080000Z
@@ -345,7 +345,7 @@ UID:a40f5a872a468e52af18f72534281fbf
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
+DESCRIPTION:\n4:3 für Stotzing\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
 DTEND:20260905T131000Z
 LOCATION:STEINBRUNN
 DTSTART:20260905T120000Z

@@ -102,7 +102,7 @@ UID:007307f5234eeabf8687b857cb9d4d53
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Mönchhof\n🏆 Liga: KM\n
+DESCRIPTION:\n5:1 für Mönchhof\n\n⚽ Gegner: Mönchhof\n🏆 Liga: KM\n
 DTEND:20260905T161500Z
 LOCATION:MÖNCHHOF
 DTSTART:20260905T143000Z
