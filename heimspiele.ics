@@ -300,7 +300,7 @@ UID:ba0b0e064f9c7ed3af51b584c7bb109e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n
+DESCRIPTION:\n5:0 für Neufeld\n\n⚽ Gegner: Winden\n🏆 Liga: U23\n
 DTEND:20260911T171500Z
 LOCATION:NEUFELD
 DTSTART:20260911T153000Z
@@ -507,7 +507,7 @@ UID:3579a58dbbd2f5379697db19bf5e8fef
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
+DESCRIPTION:\n15:13 für Neufeld\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
 DTEND:20260913T100300Z
 LOCATION:NEUFELD
 DTSTART:20260913T090000Z
@@ -543,7 +543,7 @@ UID:9c8dda15cf21c6f6db508ffb254304db
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n
+DESCRIPTION:\n4:0 für Neufeld\n\n⚽ Gegner: Winden\n🏆 Liga: KM\n
 DTEND:20260911T191500Z
 LOCATION:NEUFELD
 DTSTART:20260911T173000Z

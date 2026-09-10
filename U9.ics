@@ -21,7 +21,7 @@ UID:a40f5a872a468e52af18f72534281fbf
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
+DESCRIPTION:\n15:13 für Neufeld\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
 DTEND:20260913T100300Z
 LOCATION:NEUFELD
 DTSTART:20260913T090000Z
