@@ -372,7 +372,7 @@ UID:a4f984bb1d9f9f4834efa0b0ea62f3cd
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Parndorf\n🏆 Liga: U14\n
+DESCRIPTION:\n2:5 für Parndorf\n\n⚽ Gegner: Parndorf\n🏆 Liga: U14\n
 DTEND:20260919T153000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260919T140000Z
@@ -453,7 +453,7 @@ UID:6d9844c170f1ad135d86a046234b64fb
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Eisenstadt\n🏆 Liga: U16\n
+DESCRIPTION:\n3:0 für Neufeld\n\n⚽ Gegner: Eisenstadt\n🏆 Liga: U16\n
 DTEND:20260919T164500Z
 LOCATION:WIMPASSING
 DTSTART:20260919T150000Z

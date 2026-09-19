@@ -156,7 +156,7 @@ UID:a33756f1fa81c5c6f1d779471c3a1075
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n
+DESCRIPTION:\n2:0 für Neufeld\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n
 DTEND:20260919T154500Z
 LOCATION:GATTENDORF
 DTSTART:20260919T140000Z
@@ -273,7 +273,7 @@ UID:59e136bc5a335b7309917ec27f6b16b7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n
+DESCRIPTION:\n6:1 für Neufeld\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n
 DTEND:20260919T134500Z
 LOCATION:GATTENDORF
 DTSTART:20260919T120000Z
@@ -336,7 +336,7 @@ UID:32a40463172aa1cd8255d08e9386987b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U12_2\n
+DESCRIPTION:\n6:2 für Neufeld\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U12_2\n
 DTEND:20260919T101000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260919T090000Z
@@ -354,7 +354,7 @@ UID:bda2b80924e1c776db2d89c4b72604f4
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wulkaprodersdorf\n🏆 Liga: U11\n
+DESCRIPTION:\n8:2 für Wulkaprodersdorf\n\n⚽ Gegner: Wulkaprodersdorf\n🏆 Liga: U11\n
 DTEND:20260919T091000Z
 LOCATION:WULKAPRODERSDORF
 DTSTART:20260919T080000Z

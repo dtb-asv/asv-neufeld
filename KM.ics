@@ -57,7 +57,7 @@ UID:fe068a76545a43e9a6c5b7a4b6e77f05
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n
+DESCRIPTION:\n2:0 für Neufeld\n\n⚽ Gegner: Gattendorf\n🏆 Liga: KM\n
 DTEND:20260919T154500Z
 LOCATION:GATTENDORF
 DTSTART:20260919T140000Z

@@ -120,7 +120,7 @@ UID:5bb173df19daa5fa49ecf2b11022b4ea
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n
+DESCRIPTION:\n6:1 für Neufeld\n\n⚽ Gegner: Gattendorf\n🏆 Liga: U23\n
 DTEND:20260919T134500Z
 LOCATION:GATTENDORF
 DTSTART:20260919T120000Z
