@@ -273,7 +273,7 @@ UID:5a0087ac65a2d8822f9e44bb59d5db76
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Neudörfl\n🏆 Liga: U14\n
+DESCRIPTION:\n0:0\n\n⚽ Gegner: Neudörfl\n🏆 Liga: U14\n
 DTEND:20260923T183000Z
 LOCATION:NEUDÖRFL
 DTSTART:20260923T170000Z
@@ -1029,7 +1029,7 @@ UID:1e7972283ed2befb2208027c3b5e2e1b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U12_1\n
+DESCRIPTION:\n5:2 für Neufeld\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U12_1\n
 DTEND:20260922T164000Z
 LOCATION:NEUFELD
 DTSTART:20260922T153000Z
