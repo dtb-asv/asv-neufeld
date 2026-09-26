@@ -48,6 +48,15 @@ UID:c35151f41da7ab3ad5f0c038e55827de
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n5:4 für Neufeld\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
+DTEND:20260926T111000Z
+LOCATION:EISENSTADT
+DTSTART:20260926T100000Z
+SUMMARY:🚗 Auswärts: U12_1 SC "muki" Eisenstadt/Rust vs ASV Neufeld
+UID:d3f660c101178754dca954e1055d58b6
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n3:2 für Neufeld\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U12_2\n
 DTEND:20260913T131000Z
 LOCATION:ST. GEORGEN
@@ -219,15 +228,6 @@ UID:1f036e22bbbcf433aaa6120ff1a589c7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
-DTEND:20260926T111000Z
-LOCATION:RUST
-DTSTART:20260926T100000Z
-SUMMARY:🚗 Auswärts: U12_1 SC "muki" Eisenstadt/Rust vs ASV Neufeld
-UID:afa642f56adccc1cc4046f3ce1435e74
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
 DTEND:20261009T151000Z
 LOCATION:STOTZING
@@ -255,7 +255,7 @@ UID:f450c987c0082b7ecf8123f18e60c6ed
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U9\n
+DESCRIPTION:\n9:4 für Neufeld\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U9\n
 DTEND:20260924T160300Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260924T150000Z
@@ -282,7 +282,7 @@ UID:2bc4119bf406a67017683e3f2d6f08b2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Eisenstadt\n🏆 Liga: U9\n
+DESCRIPTION:\n10:1 für Neufeld\n\n⚽ Gegner: Eisenstadt\n🏆 Liga: U9\n
 DTEND:20260926T090300Z
 LOCATION:EISENSTADT
 DTSTART:20260926T080000Z

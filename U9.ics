@@ -57,7 +57,7 @@ UID:69b0edf092e3878fc42a9fe2f9481f5e
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U9\n
+DESCRIPTION:\n9:4 für Neufeld\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U9\n
 DTEND:20260924T160300Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260924T150000Z
@@ -75,7 +75,7 @@ UID:3de443ba97c58938f55c8030ac1b5e44
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Eisenstadt\n🏆 Liga: U9\n
+DESCRIPTION:\n10:1 für Neufeld\n\n⚽ Gegner: Eisenstadt\n🏆 Liga: U9\n
 DTEND:20260926T090300Z
 LOCATION:EISENSTADT
 DTSTART:20260926T080000Z

@@ -21,6 +21,15 @@ UID:1a68fbc89f0553284334396d8b30e86f
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
+DESCRIPTION:\n5:4 für Neufeld\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
+DTEND:20260926T111000Z
+LOCATION:EISENSTADT
+DTSTART:20260926T100000Z
+SUMMARY:🚗 Auswärts: U12_1 SC "muki" Eisenstadt/Rust vs ASV Neufeld
+UID:d3f660c101178754dca954e1055d58b6
+END:VEVENT
+BEGIN:VEVENT
+{'trigger': -7200}
 DESCRIPTION:\n\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
 DTEND:20261031T124000Z
 LOCATION:NEUFELD
@@ -36,15 +45,6 @@ LOCATION:HORNSTEIN
 DTSTART:20261107T123000Z
 SUMMARY:🚗 Auswärts: U12_1 Hornstein/Wimpasing vs ASV Neufeld
 UID:6eb07eec8d2afbe8a1a9293cb95a6b56
-END:VEVENT
-BEGIN:VEVENT
-{'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
-DTEND:20260926T111000Z
-LOCATION:RUST
-DTSTART:20260926T100000Z
-SUMMARY:🚗 Auswärts: U12_1 SC "muki" Eisenstadt/Rust vs ASV Neufeld
-UID:afa642f56adccc1cc4046f3ce1435e74
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
