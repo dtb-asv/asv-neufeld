@@ -12,7 +12,7 @@ UID:918684a79b8e854cdb92f2426c93c2b9
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wallern\n🏆 Liga: KM\n
+DESCRIPTION:\n1:1\n\n⚽ Gegner: Wallern\n🏆 Liga: KM\n
 DTEND:20260926T174500Z
 LOCATION:NEUFELD
 DTSTART:20260926T160000Z
@@ -66,7 +66,7 @@ UID:d935efd31d8c6419b555b5309d7f0fe7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Purbach/Breitenbrunn/Winden\n🏆 Liga: U12_2\n
+DESCRIPTION:\n8:1 für Neufeld\n\n⚽ Gegner: Purbach/Breitenbrunn/Winden\n🏆 Liga: U12_2\n
 DTEND:20260927T141000Z
 LOCATION:NEUFELD
 DTSTART:20260927T130000Z
@@ -471,7 +471,7 @@ UID:5a0087ac65a2d8822f9e44bb59d5db76
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wulkaprodersdorf\n🏆 Liga: U11\n
+DESCRIPTION:\n5:6 für Wulkaprodersdorf\n\n⚽ Gegner: Wulkaprodersdorf\n🏆 Liga: U11\n
 DTEND:20260927T121000Z
 LOCATION:NEUFELD
 DTSTART:20260927T110000Z
@@ -525,7 +525,7 @@ UID:d7924f544dc3f459f934235ca9dd31e2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: SPG Seewinkel\n🏆 Liga: U14\n
+DESCRIPTION:\n1:3 für Seewinkel\n\n⚽ Gegner: SPG Seewinkel\n🏆 Liga: U14\n
 DTEND:20260927T100000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260927T083000Z
@@ -570,7 +570,7 @@ UID:7f512f79030e661126ac718e4d3a2cb2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wallern\n🏆 Liga: U23\n
+DESCRIPTION:\n1:0 für Neufeld\n\n⚽ Gegner: Wallern\n🏆 Liga: U23\n
 DTEND:20260926T154500Z
 LOCATION:NEUFELD
 DTSTART:20260926T140000Z

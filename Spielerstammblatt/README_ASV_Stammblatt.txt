@@ -1,39 +1,24 @@
-ASV NEUFELD – SPIELERSTAMMBLATT IMPORTER (Version 1)
-=====================================================
+ASV NEUFELD – SPIELERSTAMMBLATT IMPORTER V3
+=============================================
 
-FUNKTION
-- Liest PDF, JPG, JPEG und PNG.
-- Digitale PDFs werden direkt ausgelesen.
-- Eingescannte PDFs/Bilder werden mit OCR verarbeitet.
-- Angehaengte DSGVO-Seiten werden ignoriert, wenn sie kein Spielerstammblatt sind.
-- Mehrere Stammblatt-Seiten in einer PDF werden unterstuetzt.
-- Mannschaft (z.B. U10) wird beim Import mitgegeben.
-- Alle erkannten Werte koennen vor dem Excel-Export kontrolliert/korrigiert werden.
-- Checkboxen werden absichtlich NICHT uebernommen.
+V3 arbeitet komplett lokal und benötigt KEINEN OpenAI/API-Key.
 
-BENÖTIGT (Windows)
-1. Python 3 muss installiert sein.
-2. In Eingabeaufforderung/PowerShell ausfuehren:
-   pip install pymupdf pytesseract pillow openpyxl
-3. Fuer Scans/JPG wird Tesseract OCR benoetigt.
-   Installationsordner normalerweise:
-   C:\Program Files\Tesseract-OCR\
-   Das Programm erkennt diesen Pfad automatisch.
-   Fuer bessere deutsche Erkennung sollte das deutsche Sprachpaket (deu) installiert sein.
+NEU IN V3
+- PyMuPDF wird über "import pymupdf" verwendet (keine fitz-Warnung mehr).
+- Bei Scan-PDF/JPG/PNG wird NICHT mehr die ganze Seite als Datenblock ausgewertet.
+- Stattdessen wird jedes bekannte Feld des ASV-Spielerstammblatts separat ausgeschnitten
+  und separat per Tesseract OCR gelesen.
+- Dadurch können Überschriften und Nachbarzeilen nicht mehr in falsche Excel-Felder rutschen.
+- Digitale PDFs werden weiterhin direkt ausgelesen.
+- DSGVO-Folgeseiten werden ignoriert.
+- Alle Ergebnisse bleiben vor Excel-Export editierbar.
 
-START
-- Doppelklick auf START_ASV_Stammblatt.bat
-  oder
-- python asv_stammblatt_importer.py
-
-ABLAUF
-1. Mannschaft waehlen, z.B. U10.
-2. "Stammblätter auswählen" oder "Ordner auswählen" anklicken.
-3. PDF/JPG/PNG-Dateien auswaehlen.
-4. Original links mit den erkannten Daten rechts vergleichen.
-5. Fehler direkt in den Feldern korrigieren.
-6. Mit "Naechster" alle Spieler kontrollieren.
-7. "Excel exportieren" anklicken.
+INSTALLATION
+1. INSTALL_PYTHON_PAKETE.bat ausführen.
+2. Tesseract OCR für Windows muss installiert sein.
+3. START_ASV_Stammblatt.bat starten.
 
 WICHTIG
-Handschriftliche Texterkennung ist nie 100 % sicher. Deshalb ist die Kontrollansicht fester Bestandteil des Programms.
+Handschrift-OCR mit Tesseract ist nicht perfekt. V3 verbessert vor allem die korrekte
+Feldzuordnung. Handschriftliche Namen/E-Mails/Telefonnummern bitte in der Kontrollansicht
+mit dem Original vergleichen und bei Bedarf korrigieren.

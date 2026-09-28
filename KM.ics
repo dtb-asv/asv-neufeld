@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wallern\n🏆 Liga: KM\n
+DESCRIPTION:\n1:1\n\n⚽ Gegner: Wallern\n🏆 Liga: KM\n
 DTEND:20260926T174500Z
 LOCATION:NEUFELD
 DTSTART:20260926T160000Z

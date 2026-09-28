@@ -19,7 +19,7 @@ FIELDS = [
     ("erz2", "Erziehungsberechtigte/r 2"), ("email2", "E-Mail 2"), ("telefon2", "Telefon 2"),
     ("unterschrift_ort", "Unterschrift Ort"), ("unterschrift_datum", "Unterschrift Datum"),
 ]
-HEADERS = [label.upper().replace("/", "_") for _, label in FIELDS] + ["QUELLDATEI", "PDF_SEITE"]
+HEADERS = [label.upper().replace("/", "_") for _, label in FIELDS] + ["QUELLDATEI"]
 
 TEAMS = ["U6", "U7", "U8", "U9", "U10", "U11", "U12", "U13", "U14", "U15", "U16", "U17", "U18", "U23", "KM"]
 
@@ -154,122 +154,102 @@ def parse_text(text):
     return d
 
 
-def ocr_field(img, box, kind="text"):
-    """OCR only the handwritten answer area of a fixed ASV form.
-    Coordinates are relative fractions (left, top, right, bottom).
-    """
+# V3: For scanned/photographed ASV forms, OCR each field separately.
+# Coordinates are relative to the page, so the method also works at different resolutions.
+FIELD_BOXES = {
+    "vorname": (0.155, 0.224, 0.565, 0.247),
+    "nachname": (0.155, 0.247, 0.565, 0.270),
+    "geburtsdatum": (0.175, 0.270, 0.565, 0.293),
+    "adresse": (0.145, 0.293, 0.565, 0.316),
+    "plzort": (0.145, 0.316, 0.565, 0.339),
+    "erz1": (0.125, 0.403, 0.555, 0.428),
+    "email1": (0.125, 0.428, 0.555, 0.453),
+    "telefon1": (0.125, 0.453, 0.555, 0.478),
+    "erz2": (0.125, 0.498, 0.555, 0.523),
+    "email2": (0.125, 0.523, 0.555, 0.548),
+    "telefon2": (0.125, 0.548, 0.555, 0.573),
+    "unterschrift_ort": (0.095, 0.733, 0.290, 0.758),
+    "unterschrift_datum": (0.355, 0.733, 0.565, 0.758),
+}
+
+def _crop_rel(img, box):
     w, h = img.size
-    crop = img.crop((int(box[0]*w), int(box[1]*h), int(box[2]*w), int(box[3]*h)))
-    crop = ImageOps.grayscale(crop)
-    crop = ImageOps.autocontrast(crop)
-    # enlarge strongly; field crops contain far less printed template text
-    crop = crop.resize((crop.width*3, crop.height*3), Image.Resampling.LANCZOS)
-    config = "--psm 7"
-    if kind == "digits":
-        config += " -c tessedit_char_whitelist=0123456789./-"
-    elif kind == "phone":
-        config += " -c tessedit_char_whitelist=0123456789+()/-"
+    x1,y1,x2,y2 = box
+    return img.crop((int(x1*w), int(y1*h), int(x2*w), int(y2*h)))
+
+def _ocr_field(img, key):
+    crop = _crop_rel(img, FIELD_BOXES[key])
+    # enlarge a single field; this prevents headings/neighboring rows from leaking into OCR
+    crop = crop.resize((max(1,crop.width*5), max(1,crop.height*5)))
+    gray = ImageOps.grayscale(crop)
+    gray = ImageOps.autocontrast(gray)
+    # Keep handwriting strokes while reducing the grey form line.
     try:
-        txt = pytesseract.image_to_string(crop, lang="deu+eng", config=config)
+        text = pytesseract.image_to_string(gray, lang="deu+eng", config="--psm 7")
     except Exception:
-        txt = pytesseract.image_to_string(crop, lang="eng", config=config)
-    return clean(txt)
+        text = pytesseract.image_to_string(gray, lang="eng", config="--psm 7")
+    text = clean(text)
+    # conservative cleanup only; never invent content
+    if key.startswith("telefon"):
+        text = re.sub(r"[^0-9+ /()-]", "", text).strip()
+    elif key in ("geburtsdatum","unterschrift_datum"):
+        text = re.sub(r"[^0-9./ -]", "", text).strip()
+    return text
 
-
-def parse_fixed_scan(img):
-    """Read the current ASV Neufeld form field-by-field instead of OCRing the whole page.
-    This deliberately avoids labels/section headings that confused V2.
-    """
-    # Coordinates tuned to the uploaded current ASV form. They include only the answer line.
-    boxes = {
-        "vorname": (0.235, 0.278, 0.570, 0.307),
-        "nachname": (0.235, 0.307, 0.570, 0.336),
-        "geburtsdatum": (0.235, 0.336, 0.570, 0.365),
-        "adresse": (0.235, 0.365, 0.570, 0.394),
-        "plzort": (0.235, 0.394, 0.570, 0.423),
-        "erz1": (0.235, 0.500, 0.570, 0.530),
-        "email1": (0.235, 0.530, 0.570, 0.559),
-        "telefon1": (0.235, 0.559, 0.570, 0.588),
-        "erz2": (0.235, 0.616, 0.570, 0.646),
-        "email2": (0.235, 0.646, 0.570, 0.675),
-        "telefon2": (0.235, 0.675, 0.570, 0.704),
-        "unterschrift_ort": (0.235, 0.866, 0.390, 0.895),
-        "unterschrift_datum": (0.455, 0.866, 0.625, 0.895),
-    }
+def parse_scanned_form(img):
     d = {k: "" for k, _ in FIELDS}
-    for k, box in boxes.items():
-        kind = "text"
-        if k in ("geburtsdatum", "unterschrift_datum"): kind = "digits"
-        if k.startswith("telefon"): kind = "phone"
-        d[k] = ocr_field(img, box, kind)
-    plzort = d.pop("plzort", "") if "plzort" in d else ocr_field(img, boxes["plzort"])
+    if not setup_tesseract():
+        raise RuntimeError("Tesseract OCR wurde nicht gefunden. Siehe README_ASV_Stammblatt.txt")
+    for key in FIELD_BOXES:
+        if key == "plzort":
+            continue
+        d[key] = _ocr_field(img, key)
+    plzort = _ocr_field(img, "plzort")
     m = re.search(r"\b(\d{4})\b\s*(.*)", plzort)
     if m:
         d["plz"] = m.group(1)
         d["ort"] = clean(m.group(2))
     else:
-        # Keep uncertain OCR visible for manual correction instead of losing it.
+        # Keep uncertain content visible for manual correction rather than placing it in a wrong field.
         d["ort"] = plzort
     return d
 
-
 def pdf_pages(path):
-    """Liest alle Seiten einer PDF und übernimmt nur echte Spielerstammblätter.
-
-    Bei Scan-PDFs wird zuerst nur der Kopfbereich per OCR geprüft. Dadurch werden
-    angehängte DSGVO-Seiten schnell erkannt und gar nicht als Spieler importiert.
-    Erst bei einer Stammblatt-Seite wird die ganze Seite per OCR gelesen.
-    """
     doc = pymupdf.open(path)
     out = []
     for n, page in enumerate(doc):
         direct = page.get_text("text") or ""
         pix = page.get_pixmap(matrix=pymupdf.Matrix(2.5,2.5), alpha=False)
         img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
-
-        direct_upper = direct.upper()
-        if "SPIELERSTAMMBLATT" in direct_upper:
-            is_form = True
-            text = direct
-        elif "DATENSCHUTZHINWEISE" in direct_upper or "DSGVO" in direct_upper[:500]:
-            is_form = False
-            text = direct
-        else:
-            # Scan: nur den oberen Bereich prüfen. Dort steht beim Formular
-            # deutlich SPIELERSTAMMBLATT, bei der Folgeseite Datenschutzhinweise/DSGVO.
-            head = img.crop((0, 0, img.width, int(img.height * 0.28)))
-            head_text = ocr_image(head)
-            hu = head_text.upper()
-            is_form = ("SPIELERSTAMMBLATT" in hu or
-                       ("ANGABEN" in hu and "SPIELER" in hu))
-            text = ocr_image(img) if is_form else head_text
-
+        # Ignore appended DSGVO page. For scans, OCR is needed to identify page type.
+        text = direct
+        scanned = len(re.sub(r"\s", "", direct)) < 80
+        if scanned:
+            # Full-page OCR is used only to identify whether this is a form page.
+            text = ocr_image(img)
+        is_form = "SPIELERSTAMMBLATT" in text[:350].upper() or n == 0
         if is_form:
-            # Digital PDF: parse embedded text. Scan: fixed-position field OCR.
-            if "SPIELERSTAMMBLATT" in direct_upper:
-                data = parse_text(direct)
-            else:
-                data = parse_fixed_scan(img)
-            out.append((n+1, data, img.copy()))
+            out.append((n+1, text, img.copy(), scanned))
     doc.close()
     return out
 
+
 def image_page(path):
     img = Image.open(path).convert("RGB")
-    return [(1, parse_fixed_scan(img), img.copy())]
+    return [(1, "", img.copy(), True)]
 
 
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("ASV Neufeld – Spielerstammblatt Import V3")
+        self.title("ASV Neufeld – Spielerstammblatt Import V3 (FELD-OCR – kein API-Key)")
         self.geometry("1280x820")
         self.minsize(1050, 700)
         self.records = []
         self.idx = -1
         self.photo = None
         self.vars = {k: tk.StringVar() for k, _ in FIELDS}
-        self.status = tk.StringVar(value="Bereit")
+        self.status = tk.StringVar(value="Bereit – V3 Feld-OCR, lokal, kein OpenAI/API-Key")
         self.build()
 
     def build(self):
@@ -329,8 +309,8 @@ class App(tk.Tk):
                 self.status.set(f"Verarbeite {pos}/{len(paths)}: {Path(path).name}"); self.update()
                 try:
                     pages = pdf_pages(path) if Path(path).suffix.lower()==".pdf" else image_page(path)
-                    for page_no,d,img in pages:
-                        d["mannschaft"] = team
+                    for page_no,text,img,scanned in pages:
+                        d = parse_scanned_form(img) if scanned else parse_text(text); d["mannschaft"] = team
                         self.records.append({"data":d, "image":img, "source":Path(path).name, "page":page_no})
                         added += 1
                 except Exception as e:
@@ -382,9 +362,9 @@ class App(tk.Tk):
             c.font=Font(bold=True, color="FFFFFF"); c.fill=PatternFill("solid", fgColor="1F4E78"); c.alignment=Alignment(horizontal="center")
         for rec in self.records:
             d=rec["data"]
-            ws.append([d.get(k,"") for k,_ in FIELDS]+[rec["source"], rec["page"]])
+            ws.append([d.get(k,"") for k,_ in FIELDS]+[rec["source"]])
         ws.freeze_panes="A2"; ws.auto_filter.ref=ws.dimensions
-        widths=[14,18,22,15,28,9,20,28,30,20,28,30,20,18,18,32,12]
+        widths=[14,18,22,15,28,9,20,28,30,20,28,30,20,18,18,32]
         for i,w in enumerate(widths,1): ws.column_dimensions[chr(64+i) if i<=26 else "A"].width=w
         wb.save(path)
         self.status.set(f"Excel gespeichert: {path}")
