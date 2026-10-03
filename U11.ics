@@ -48,7 +48,7 @@ UID:bd69e57ac09411bce2c6899683fef4a0
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U11\n
+DESCRIPTION:\n5:6 für Hornstein\n\n⚽ Gegner: Hornstein\n🏆 Liga: U11\n
 DTEND:20261003T091000Z
 LOCATION:STEINBRUNN
 DTSTART:20261003T080000Z
