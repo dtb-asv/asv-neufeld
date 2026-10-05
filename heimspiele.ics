@@ -363,7 +363,7 @@ UID:da5e7610770a90fc3bac731da0a8a6f6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Neusiedl\n🏆 Liga: U16\n
+DESCRIPTION:\n3:0 für Neufeld\n\n⚽ Gegner: Neusiedl\n🏆 Liga: U16\n
 DTEND:20261003T134500Z
 LOCATION:NEUFELD
 DTSTART:20261003T120000Z
