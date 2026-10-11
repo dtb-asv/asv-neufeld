@@ -75,7 +75,7 @@ UID:b4814a302a7d07c3957498931ff80800
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: St. Margarethen\n🏆 Liga: U12_2\n
+DESCRIPTION:\n7:2 für Neufeld\n\n⚽ Gegner: St. Margarethen\n🏆 Liga: U12_2\n
 DTEND:20261010T104000Z
 LOCATION:ST. MARGARETHEN
 DTSTART:20261010T093000Z
@@ -228,7 +228,7 @@ UID:1f036e22bbbcf433aaa6120ff1a589c7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
+DESCRIPTION:\n4:0 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
 DTEND:20261009T151000Z
 LOCATION:STOTZING
 DTSTART:20261009T140000Z
@@ -237,7 +237,7 @@ UID:4889df479e9fec2eb368636399550bb0
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U11\n
+DESCRIPTION:\n16:2 für Leithaprodersdorf\n\n⚽ Gegner: Leithaprodersdorf\n🏆 Liga: U11\n
 DTEND:20261010T124000Z
 LOCATION:LEITHAPRODERSDORF
 DTSTART:20261010T113000Z

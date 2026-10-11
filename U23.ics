@@ -111,7 +111,7 @@ UID:f355fbe8481694ab5686abbe344c8571
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
+DESCRIPTION:\n3:1 für Wimpassing\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20261009T171500Z
 LOCATION:NEUFELD
 DTSTART:20261009T153000Z

@@ -75,7 +75,7 @@ UID:a23b8909aca4cb9b4183e2dac1869526
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
+DESCRIPTION:\n1:0 für Neufeld\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
 DTEND:20261009T191500Z
 LOCATION:NEUFELD
 DTSTART:20261009T173000Z

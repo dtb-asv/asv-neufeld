@@ -93,7 +93,7 @@ UID:cc7712d66360f841a6fc06c9e669766b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Parndorf\n🏆 Liga: U16\n
+DESCRIPTION:\n1:1\n\n⚽ Gegner: Parndorf\n🏆 Liga: U16\n
 DTEND:20261010T154500Z
 LOCATION:NEUFELD
 DTSTART:20261010T140000Z
@@ -246,7 +246,7 @@ UID:1e7972283ed2befb2208027c3b5e2e1b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
+DESCRIPTION:\n1:0 für Neufeld\n\n⚽ Gegner: Wimpassing\n🏆 Liga: KM\n
 DTEND:20261009T191500Z
 LOCATION:NEUFELD
 DTSTART:20261009T173000Z
@@ -381,7 +381,7 @@ UID:ed5806332d8b2d8ed88c3822d3776ac9
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U9\n
+DESCRIPTION:\n11:2 für Neufeld\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U9\n
 DTEND:20261010T130300Z
 LOCATION:NEUFELD
 DTSTART:20261010T120000Z
@@ -615,7 +615,7 @@ UID:e31d680dcf289ca95ea301d75d8f8d47
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
+DESCRIPTION:\n3:1 für Wimpassing\n\n⚽ Gegner: Wimpassing\n🏆 Liga: U23\n
 DTEND:20261009T171500Z
 LOCATION:NEUFELD
 DTSTART:20261009T153000Z
