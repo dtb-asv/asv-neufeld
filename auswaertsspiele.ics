@@ -12,7 +12,7 @@ UID:73f7435008b82154eb220ee91e84398d
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n2:1 für Neufeld\n\n⚽ Gegner: Oggau\n🏆 Liga: U12_2\n
+DESCRIPTION:\n2:1 für SPG ASV\n\n⚽ Gegner: Oggau\n🏆 Liga: U12_2\n
 DTEND:20261002T151000Z
 LOCATION:OGGAU
 DTSTART:20261002T140000Z
@@ -48,7 +48,7 @@ UID:c35151f41da7ab3ad5f0c038e55827de
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n5:4 für Neufeld\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
+DESCRIPTION:\n5:4 für SPG ASV\n\n⚽ Gegner: SC "muki" Eisenstadt/Rust\n🏆 Liga: U12_1\n
 DTEND:20260926T111000Z
 LOCATION:EISENSTADT
 DTSTART:20260926T100000Z
@@ -57,7 +57,7 @@ UID:d3f660c101178754dca954e1055d58b6
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n3:2 für Neufeld\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U12_2\n
+DESCRIPTION:\n3:2 für SPG ASV\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U12_2\n
 DTEND:20260913T131000Z
 LOCATION:ST. GEORGEN
 DTSTART:20260913T120000Z
@@ -75,7 +75,7 @@ UID:b4814a302a7d07c3957498931ff80800
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n7:2 für Neufeld\n\n⚽ Gegner: St. Margarethen\n🏆 Liga: U12_2\n
+DESCRIPTION:\n7:2 für SPG ASV\n\n⚽ Gegner: St. Margarethen\n🏆 Liga: U12_2\n
 DTEND:20261010T104000Z
 LOCATION:ST. MARGARETHEN
 DTSTART:20261010T093000Z
@@ -228,7 +228,7 @@ UID:1f036e22bbbcf433aaa6120ff1a589c7
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n4:0 für Neufeld\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
+DESCRIPTION:\n4:0 für SPG ASV\n\n⚽ Gegner: Stotzing\n🏆 Liga: U12_1\n
 DTEND:20261009T151000Z
 LOCATION:STOTZING
 DTSTART:20261009T140000Z
@@ -336,7 +336,7 @@ UID:32a40463172aa1cd8255d08e9386987b
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n6:2 für Neufeld\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U12_2\n
+DESCRIPTION:\n6:2 für SPG ASV\n\n⚽ Gegner: Großhöflein\n🏆 Liga: U12_2\n
 DTEND:20260919T101000Z
 LOCATION:GROßHÖFLEIN
 DTSTART:20260919T090000Z
