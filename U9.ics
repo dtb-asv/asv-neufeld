@@ -84,7 +84,7 @@ UID:4df24ea53417b5447b9f9f3deec95245
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
+DESCRIPTION:\n12:9 für Steinbrunn\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
 DTEND:20261017T083300Z
 LOCATION:STEINBRUNN
 DTSTART:20261017T073000Z

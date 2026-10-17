@@ -39,7 +39,7 @@ UID:5ac379611b6ca20aa0d683a30b1cf423
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
+DESCRIPTION:\n3:1 für Hornstein\n\n⚽ Gegner: Hornstein\n🏆 Liga: U23\n
 DTEND:20261016T171500Z
 LOCATION:HORNSTEIN
 DTSTART:20261016T153000Z
@@ -66,7 +66,7 @@ UID:ad272b49825c1b997afe84e97376aede
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n
+DESCRIPTION:\n5:0 für Hornstein\n\n⚽ Gegner: Hornstein\n🏆 Liga: KM\n
 DTEND:20261016T191500Z
 LOCATION:HORNSTEIN
 DTSTART:20261016T173000Z
@@ -363,7 +363,7 @@ UID:3414fb71418e5ece369c61ebffd5b9e2
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
+DESCRIPTION:\n3:0 für Neufeld\n\n⚽ Gegner: St. Georgen/Eisenstadt\n🏆 Liga: U16\n
 DTEND:20261016T174500Z
 LOCATION:ST. GEORGEN
 DTSTART:20261016T160000Z
@@ -453,7 +453,7 @@ UID:a8b5408e3d76430b189b4db3fdc4f444
 END:VEVENT
 BEGIN:VEVENT
 {'trigger': -7200}
-DESCRIPTION:\n\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
+DESCRIPTION:\n12:9 für Steinbrunn\n\n⚽ Gegner: Steinbrunn\n🏆 Liga: U9\n
 DTEND:20261017T083300Z
 LOCATION:STEINBRUNN
 DTSTART:20261017T073000Z
